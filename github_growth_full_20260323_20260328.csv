@@ -1,0 +1,1181 @@
+repo_name,stars_gained,days_since_launch,description,right_for_you_if,youtube_howto_video,total_stars,forks,url
+affaan-m/everything-claude-code,2925,71,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.","This repo is right for you if you want a comprehensive, production-ready performance optimization system for AI agent harnesses like Claude Code, featuring skills, security, memory management, and multi-language support.","affaan-m/everything-claude-code - Gource visualisation
+ https://www.youtube.com/watch?v=E89_8lWzTvE",117773,15291,https://github.com/affaan-m/everything-claude-code
+garrytan/gstack,2730,18,"Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA","This repo is right for you if you want to use a comprehensive, open-source suite of AI-powered tools that act like a full virtual engineering team to dramatically accelerate your development workflow from planning to deployment.","gstack: How YC's CEO Ships 10,000 Lines of Code Per Day with Claude Code
+ https://www.youtube.com/watch?v=62jZZ0LwKBc
+ 
+
+ You NEED to try these open-source AI projects right now...
+ https://www.youtube.com/watch?v=sXVbWkoCVaA
+ 
+
+ This Tech-CEO's Claude Code Toolkit Will Blow You Away
+ https://www.youtube.com/watch?v=MM320sAhFoY
+ 
+
+ YCs Garry Tan: Use this Claude skill to Build 10x Faster
+ https://www.youtube.com/watch?v=sHQk_13e-FE
+ 
+
+ gstack 的 Build 是空的Superpowers 怎麼補上這個缺口
+ https://www.youtube.com/watch?v=Zwi2SKUy_qY
+ 
+
+ 三大AI编程框架 - 做对了什么还可以如何优化
+ https://www.youtube.com/watch?v=Y9hR2M4FE4I
+ 
+
+ 하루만에 만개의 깃허브 스타를 받은 gstack - YC CEO Garry Tan 의 뇌를 빌려 딸깍! Claude Code skills
+ https://www.youtube.com/watch?v=vfn_Ezu1qfk
+ 
+
+ 用 gstack autoplan 一鍵審完 Plan不用再回答 30 個問題
+ https://www.youtube.com/watch?v=rpTZzU4IbL8
+ 
+
+ YC's CEO Just Gave Every Solo Founder a Free Engineering Team (gstack)
+ https://www.youtube.com/watch?v=wUhxU9qAw7Y
+ 
+
+ YC CEO 開源他的 Claude Code 工作流哪些人最值得安裝
+ https://www.youtube.com/watch?v=wx7yqIyDTt8",56636,7396,https://github.com/garrytan/gstack
+bytedance/deer-flow,2620,327,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.","This repo is right for you if you want to build and orchestrate AI agents with built-in tools, memory, and sandboxed execution for complex, multi-step tasks.","Is AutoGPT stuck playing bit parts? ByteDance open-sources deer-flow, giving AI independent Dock...
+ https://www.youtube.com/watch?v=niaGY19yrFs
+ 
+
+ bytedance/deer-flow - Gource visualisation
+ https://www.youtube.com/watch?v=b04Xn3sp-_U",53557,6453,https://github.com/bytedance/deer-flow
+obra/superpowers,2500,171,An agentic skills framework & software development methodology that works.,"This repo is right for you if you want to give your AI coding agent a structured, automated workflow for planning, building, and reviewing software using test-driven development and subagent collaboration.","Superpowers: NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial)
+ https://www.youtube.com/watch?v=7cOAayWzYDY",124465,10141,https://github.com/obra/superpowers
+Crosstalk-Solutions/project-nomad,1886,278,"Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.","This repo is right for you if you want to build a self-contained, offline-first server with AI, educational content, maps, and tools using Docker.","Crosstalk-Solutions/project-nomad - Gource visualisation
+ https://www.youtube.com/watch?v=29FXLiLGLnk",19988,1889,https://github.com/Crosstalk-Solutions/project-nomad
+openclaw/openclaw,1690,126,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞,"This repo is right for you if you want to run a personal, local-first AI assistant that integrates with many messaging apps and has voice, visual, and automation features.","How to setup Nanobot In minutes (OpenClaw Alternative)
+ https://www.youtube.com/watch?v=hF5Cs4RNoWQ
+ 
+
+ How to Install and Use OpenClaw Skills (Full Beginner Guide) OpenClaw Skills Explained StepByStep
+ https://www.youtube.com/watch?v=hXEKgSnD1Gs
+ 
+
+ Full OpenClaw Setup Tutorial: Step-by-Step Walkthrough (Clawdbot)
+ https://www.youtube.com/watch?v=fcZMmP5dsl4
+ 
+
+ Supercharge Your Local AI: The Ultimate Guide to OpenClaw Skills!
+ https://www.youtube.com/watch?v=QhTuHfRT7QY
+ 
+
+ How to setup NullClaw ... an Even LIGHTER OpenClaw Competitor!
+ https://www.youtube.com/watch?v=5zt2UnbIHEc
+ 
+
+ How to Use NanoClaw (Better Than OpenClaw?)
+ https://www.youtube.com/watch?v=wibalYcK0ZE
+ 
+
+ OpenClaw Full Tutorial for Beginners How to Set Up and Use OpenClaw (ClawdBot / MoltBot)
+ https://www.youtube.com/watch?v=n1sfrc-RjyM
+ 
+
+ How to Set Up OpenClaw in 30 Minutes (Step-by-Step)
+ https://www.youtube.com/watch?v=bKGbDWTM2b0
+ 
+
+ The Ultimate Beginners Guide to OpenClaw
+ https://www.youtube.com/watch?v=st534T7-mdE
+ 
+
+ OpenClaw Tutorial for Beginners - Crash Course
+ https://www.youtube.com/watch?v=u4ydH-QvPeg",341191,67337,https://github.com/openclaw/openclaw
+karpathy/autoresearch,1669,23,AI agents running research on single-GPU nanochat training automatically,This repo is right for you if you want to experiment with an autonomous AI agent that iteratively improves a small language model by modifying its code and training it overnight.,"karpathy/autoresearch - Nightly Autonomous GPT Training
+ https://www.youtube.com/watch?v=l9hIroSMTzA
+ 
+
+ Karpathys """"autoresearch"""" research will never look the same!
+ https://www.youtube.com/watch?v=YL-jQZFDWxQ
+ 
+
+ Karpathys Autoresearch: We Achieved Near-Human Scores in 2 Hours!
+ https://www.youtube.com/watch?v=9jxrmk_Xses
+ 
+
+ Karpathy Autoresearch & The Ralph Wiggum Loop: The Future of Autonomous AI Agents
+ https://www.youtube.com/watch?v=jfAIKrNMKvM
+ 
+
+ Claude Code + Karpathys Autoresearch = The New Meta
+ https://www.youtube.com/watch?v=4Cb_l2LJAW8
+ 
+
+ I Used Karpathys Autoresearch to Train a Music-Generating AI Model!
+ https://www.youtube.com/watch?v=-Ip9EtoBjbk
+ 
+
+ Karpathys autoresearch: the lab that works while you sleep
+ https://www.youtube.com/watch?v=nKwRnwhV3bc
+ 
+
+ AutoResearch: Karpathy AI That Does Its Own ML Research
+ https://www.youtube.com/watch?v=URdIeLW3GFg
+ 
+
+ Karpathys autoresearch: 100 AI Experiments While You Sleep
+ https://www.youtube.com/watch?v=OEL8ajBFJho",61207,8535,https://github.com/karpathy/autoresearch
+FujiwaraChoki/MoneyPrinterV2,1496,776,Automate the process of making money online.,"This repo is right for you if you want to automate making money online through Twitter bots, YouTube Shorts, and affiliate marketing with a Python application.","GitHub - FujiwaraChoki/MoneyPrinterV2: Automate the process of making money online.
+ https://www.youtube.com/watch?v=qDr9DnBvtLI
+ 
+
+ FujiwaraChoki/MoneyPrinterV2 hit 18K GitHub stars in 2.1 years Moneyprinterv2 Automation Cli
+ https://www.youtube.com/watch?v=jZXzhgq_5Po
+ 
+
+ FujiwaraChoki/MoneyPrinterV2 - Gource visualisation
+ https://www.youtube.com/watch?v=iRBLWg4NkgQ",27357,2894,https://github.com/FujiwaraChoki/MoneyPrinterV2
+microsoft/RustTraining,1177,17,"Beginner, advanced, expert level Rust training material","This repo is right for you if you want to learn Rust through comprehensive, structured training books tailored to different programming backgrounds and expertise levels.","GitHub Trending Today - better-sqlite3, lollms-webui, RustTraining & More 15
+ https://www.youtube.com/watch?v=UttzI_9ti0Y",11529,788,https://github.com/microsoft/RustTraining
+TauricResearch/TradingAgents,1175,457,TradingAgents: Multi-Agents LLM Financial Trading Framework,This repo is right for you if you want to experiment with a multi-agent AI framework where different LLM-powered specialist roles collaborate to analyze markets and make simulated trading decisions.,"TauricResearch/TradingAgents - Gource visualisation
+ https://www.youtube.com/watch?v=248kMdZxllw",44274,8024,https://github.com/TauricResearch/TradingAgents
+MiniMax-AI/skills,1073,13,,"This repo is right for you if you want to add structured, production-quality development skills for frontend, backend, mobile, and creative coding to your AI coding tools like Cursor or Claude Code.",,7862,596,https://github.com/MiniMax-AI/skills
+mvanhorn/last30days-skill,1055,65,"AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary","This repo is right for you if you want to automatically research any topic across multiple social platforms and news sources from the past month to get a synthesized, citation-backed report on current trends and community discussions.","last30days-skill - GitHub Trending Today
+ https://www.youtube.com/watch?v=c9o_a1J7S14
+ 
+
+ mvanhorn/last30days-skill - Gource visualisation
+ https://www.youtube.com/watch?v=SJ-9e1_I8zk
+ 
+
+ 8.4K+ Stars AI Research Tool last30days-skill Stay ahead of the AI curve shorts
+ https://www.youtube.com/watch?v=IQNn0WyplPI
+ 
+
+ last30days-skill - GitHub Trending Today
+ https://www.youtube.com/watch?v=mQ8Rp4BzQ7M
+ 
+
+ AI 에이전트가 30일간 리서치?! last30days-skill GitHubTrending
+ https://www.youtube.com/watch?v=cJVBDGv5q_A",16090,1273,https://github.com/mvanhorn/last30days-skill
+pascalorg/editor,1053,164,Create and share 3D architectural projects.,"This repo is right for you if you want to build or extend a 3D architectural editor using a modern React/Three.js stack with a clear separation between core logic, rendering, and UI tools.",,8339,1080,https://github.com/pascalorg/editor
+msitarzewski/agency-agents,994,167,"A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.","This repo is right for you if you want to use a large, pre-built collection of specialized AI agent personas, each with distinct expertise and personality, to enhance your coding, design, marketing, or sales workflows.","This Free Repo Replaces Your Entire Team Agency Agents + Claude Code
+ https://www.youtube.com/watch?v=f3rDD5I53Bk
+ 
+
+ OpenClaw + Agency Agents + PinchBench: 10X Agency Productivity With This Insane Open-Source Swarm
+ https://www.youtube.com/watch?v=47D3N4Z00EI
+ 
+
+ This Github Repo Replaces All Your Employees
+ https://www.youtube.com/watch?v=G9e-zMiPPRk
+ 
+
+ msitarzewski/agency-agents - Gource visualisation
+ https://www.youtube.com/watch?v=bMwvnaVg19Q",66134,9988,https://github.com/msitarzewski/agency-agents
+666ghj/MiroFish,917,124,"A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",This repo is right for you if you want to use a multi-agent simulation engine to predict future scenarios by uploading seed information and watching AI agents interact in a generated digital world.,"666ghj/MiroFish - Gource visualisation
+ https://www.youtube.com/watch?v=IXqtuA_pl_o",45925,6478,https://github.com/666ghj/MiroFish
+gsd-build/get-shit-done,896,105,"A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.","This repo is right for you if you want to automate AI-driven software development with a streamlined, context-aware system that prevents quality degradation and handles planning, execution, and verification through structured workflows.","gsd-build/get-shit-done - Gource visualisation
+ https://www.youtube.com/watch?v=XjoXRPUA2Hw
+ 
+
+ gsd-build/get-shit-done hit 36K GitHub stars in 3 months GetShitDone ClaudeCode Ai Shorts
+ https://www.youtube.com/watch?v=lUxfMjc80qU
+ 
+
+ GitHub Trending Repositories: gsd-build/get-shit-done
+ https://www.youtube.com/watch?v=C8pdIInRCdM
+ 
+
+ GitHub Trend Depoları: gsd-build/get-shit-done
+ https://www.youtube.com/watch?v=Q23eXoXQ7xA",44994,3633,https://github.com/gsd-build/get-shit-done
+shareAI-lab/learn-claude-code,875,273,"Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1","This repo is right for you if you want to learn how to build the environment and tools for AI agents to operate effectively, rather than trying to program the intelligence itself.","GitHub Trending Repositories: shareAI-lab/learn-claude-code
+ https://www.youtube.com/watch?v=6Na9iXcGWyM
+ 
+
+ shareAI-lab/learn-claude-code - Gource visualisation
+ https://www.youtube.com/watch?v=7VIW9m-7zgc",43476,6669,https://github.com/shareAI-lab/learn-claude-code
+nextlevelbuilder/ui-ux-pro-max-skill,832,119,An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms,"This repo is right for you if you want an AI tool that automatically generates complete, industry-specific UI/UX design systems and code for various platforms based on your project description.","Antigravity Tutorial: Build Beautiful UI/UX with Simple 2-Line Prompts
+ https://www.youtube.com/watch?v=DY73sLDNBJc
+ 
+
+ Antigravity UI/UX Skill: Build 100X Better & Modern Designs (100 Free)
+ https://www.youtube.com/watch?v=9cf2-BoWsDc
+ 
+
+ OpenCode UI/UX Skill: Build 100X Better & Modern Designs (100 Free)
+ https://www.youtube.com/watch?v=Pc27ThkuBPQ
+ 
+
+ UI/UX Pro Max - The Ultimate AI Design Intelligence Tool
+ https://www.youtube.com/watch?v=dpkNeasHDaM
+ 
+
+ Why Your AI Designs Look Like Garbage (And How to Fix It)
+ https://www.youtube.com/watch?v=AUrc9VUKZLI
+ 
+
+ 70K Devs Use Ui Ux Pro Max AI Coding Agent Skill Shorts skills claude
+ https://www.youtube.com/watch?v=BWgD6xfjvaE
+ 
+
+ Google AntiGravity Skill Sets Are A GAME CHANGER (FREE)
+ https://www.youtube.com/watch?v=AoDlrSEOqZg
+ 
+
+ Antigravity AgentKit Supercharges Your AI 100x
+ https://www.youtube.com/watch?v=vGh7wfULXGY
+ 
+
+ 7 Agent Skills Every Vibe Coder Needs
+ https://www.youtube.com/watch?v=-1MPVzEOx2g
+ 
+
+ Nunca Mais Faço Design Sem Esse Skill - PRO MAX + Antigravity!
+ https://www.youtube.com/watch?v=ApV1MUvNdU8",54685,5301,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+anthropics/skills,821,188,Public repository for Agent Skills,"This repo is right for you if you want to explore example implementations and templates for creating custom skills that teach Claude to perform specialized, repeatable tasks.",,106248,11749,https://github.com/anthropics/skills
+Donchitos/Claude-Code-Game-Studios,807,46,"Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.","This repo is right for you if you want to use Claude Code to manage a structured, multi-agent game development team that enforces professional workflows and quality checks.",,7372,1069,https://github.com/Donchitos/Claude-Code-Game-Studios
+paperclipai/paperclip,801,27,Open-source orchestration for zero-human companies,"This repo is right for you if you want to orchestrate a team of AI agents into a structured, autonomous company with features like org charts, budgets, and governance, all from a single dashboard.","You NEED to try these open-source AI projects right now...
+ https://www.youtube.com/watch?v=sXVbWkoCVaA
+ 
+
+ Claude Code, Paperclip, & The Rise of ""AI Agent Companies""
+ https://www.youtube.com/watch?v=Rgb-Kx-kkaA
+ 
+
+ This AI Tool Can Run Your Entire Company-Hindi Video
+ https://www.youtube.com/watch?v=_z0SI2FFIAk",39881,5917,https://github.com/paperclipai/paperclip
+ruvnet/RuView,729,296,"π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.","This repo is right for you if you want to build a privacy-focused, edge-based system that uses WiFi signals to detect human presence, pose, and vital signs through walls without cameras or wearables.",,44590,5989,https://github.com/ruvnet/RuView
+NousResearch/hermes-agent,712,250,The agent that grows with you,"This repo is right for you if you want to run a versatile, self-improving AI agent that works across many platforms and models, learns from its interactions, and can be deployed anywhere from a cheap VPS to serverless infrastructure.","NousResearch/hermes-agent - Gource visualisation
+ https://www.youtube.com/watch?v=iQrVKXXG-uc",17570,2129,https://github.com/NousResearch/hermes-agent
+tiajinsha/JKVideo,708,24,,"This repo is right for you if you want to build a high-feature React Native video player app for Bilibili with DASH playback, real-time danmaku, and cross-platform support.",,4843,2927,https://github.com/tiajinsha/JKVideo
+Lum1104/Understand-Anything,706,15,"Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).","This repo is right for you if you want to turn any codebase into an interactive, explainable knowledge graph to quickly understand and explore its architecture.",,7072,554,https://github.com/Lum1104/Understand-Anything
+ruvnet/ruflo,702,300,"🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration","This repo is right for you if you want to deploy and coordinate many specialized AI agents to work together on complex software projects, with built-in learning, security, and cost-saving features.","ruvnet/ruflo - Gource visualisation
+ https://www.youtube.com/watch?v=sPpPioG6d70",28477,3119,https://github.com/ruvnet/ruflo
+jackwener/opencli,697,15,"Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.","This repo is right for you if you want to control websites and desktop apps from your terminal by reusing your existing browser logins, with built-in tools to avoid detection and support for AI agents.","OpenCLI: Turn Any Website into a CLI
+ https://www.youtube.com/watch?v=x5JYqsz8DWo
+ 
+
+ 想让AI去小红书知乎上搜集点资料是不是被各种反爬虫机制折磨别折腾了来看这个堪称降维打击的开源项目opencli它把任何网站直接变成命令行工具
+ https://www.youtube.com/watch?v=_3G4lZro2GA
+ 
+
+ OpenCLI: Every website you use can become a command now
+ https://www.youtube.com/watch?v=QftH86XxP98",9016,753,https://github.com/jackwener/opencli
+anomalyco/opencode,669,333,The open source coding agent.,"This repo is right for you if you want a free, open-source, and customizable AI coding assistant that runs in your terminal and works with various AI models.",,132675,14232,https://github.com/anomalyco/opencode
+HKUDS/CLI-Anything,636,21,CLI-Anything: Making ALL Software Agent-Native,This repo is right for you if you want to automatically generate command-line interfaces (CLIs) for existing software so that AI agents can control them.,"CLI-Anything: Claude Code Can Now Run ANY App (30x Cheaper Than MCP)
+ https://www.youtube.com/watch?v=O5bjNhUMJV4
+ 
+
+ CLI Anything Making All Software Agent Native
+ https://www.youtube.com/watch?v=b-p-JRrDCl8
+ 
+
+ CLI-Anything + Claude + Ollama + OpenClaw: Making ALL Software Agent-Native
+ https://www.youtube.com/watch?v=bWeV7xBBE0s
+ 
+
+ CLI-Anything Just Brought Claude Code Into The Future
+ https://www.youtube.com/watch?v=Uzd2ckXnsg0
+ 
+
+ CLI-Anything + OpenClaw + Ollama: Turn Any Software Into an AI Agent Tool
+ https://www.youtube.com/watch?v=405U6MT-PtM
+ 
+
+ 10 CLI Tools That Make Claude Code UNSTOPPABLE
+ https://www.youtube.com/watch?v=uULvhQrKB_c
+ 
+
+ 5 Open Source Repos That Make Claude Code UNSTOPPABLE (March 2026)
+ https://www.youtube.com/watch?v=6SnFH43qPAw
+ 
+
+ CLI-Anything: Making ALL Software Agent-Native
+ https://www.youtube.com/watch?v=10Ax1mxBBIA
+ 
+
+ CLI-Anything + Claude Code: Agora Ele Controla QUALQUER Software (veja como)
+ https://www.youtube.com/watch?v=aUAAA4y3rTo
+ 
+
+ MCP IS DEAD: Turn ANY App into a Powerful AI Command Line!
+ https://www.youtube.com/watch?v=kz2KP1CyzBA",25012,2237,https://github.com/HKUDS/CLI-Anything
+jarrodwatts/claude-hud,634,87,"A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",This repo is right for you if you want to install a Claude Code plugin that displays real-time session information like context usage and tool activity in a status bar.,"jarrodwatts/claude-hud hit 10K GitHub stars in 3 months ClaudeHud Anthropic Claude ClaudeCode
+ https://www.youtube.com/watch?v=75ueg3D1fdU",15207,625,https://github.com/jarrodwatts/claude-hud
+public-apis/public-apis,628,3661,A collective list of free APIs,"This repo is right for you if you want to find and use a free, community-curated list of public APIs across a huge variety of categories for your projects.","Modular Monolith Architecture: The Missing Guide to Public APIs
+ https://www.youtube.com/watch?v=0ZrjLEIBRWw
+ 
+
+ Unlock the Power of Public APIs for Global Reach!
+ https://www.youtube.com/watch?v=2sH1G11tNQU
+ 
+
+ Top 5 Free Public APIs for Developers
+ https://www.youtube.com/watch?v=nz_L5x1W4iY
+ 
+
+ 300+ Free Public APIs for React Projects
+ https://www.youtube.com/watch?v=yWr1xOilp3I
+ 
+
+ 1,000+ completely free public APIs javascript webdevelopment javascriptwizz programming vscode
+ https://www.youtube.com/watch?v=W3kbqOq2XJs",417417,45323,https://github.com/public-apis/public-apis
+github/spec-kit,585,220,💫 Toolkit to help you get started with Spec-Driven Development,"This repo is right for you if you want to use executable specifications and AI agents to generate code and manage projects, shifting focus from writing code to defining outcomes.","The ONLY guide youll need for GitHub Spec Kit
+ https://www.youtube.com/watch?v=a9eR1xsfvHg
+ 
+
+ Heres how to use Github Spec-Kit on Existing Projects
+ https://www.youtube.com/watch?v=xMpmdWjr7ZA
+ 
+
+ Kilo Code + Spec-Kit: This NEW Github Tool FINALLY Fixed AI Coding!
+ https://www.youtube.com/watch?v=IaRC2BAU0Zw
+ 
+
+ Spec Kit: Githubs NEW tool That FINALLY Fixes AI Coding
+ https://www.youtube.com/watch?v=em3vIT9aUsg
+ 
+
+ Up & Running with GitHub Spec Kit 1 - Intro & Setup
+ https://www.youtube.com/watch?v=61K-2VRaC6s",83624,7152,https://github.com/github/spec-kit
+slavingia/skills,579,6,Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia,This repo is right for you if you want to use Claude Code skills that guide you through the step-by-step process of starting and growing a business based on the principles from *The Minimalist Entrepreneur*.,,5576,403,https://github.com/slavingia/skills
+hesreallyhim/awesome-claude-code,548,344,"A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic","This repo is right for you if you want to discover a wide variety of tools, skills, and workflows to enhance and customize your experience with Claude Code.",,34282,2483,https://github.com/hesreallyhim/awesome-claude-code
+firecrawl/firecrawl,545,713,🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data,"This repo is right for you if you want to build AI agents or applications that can reliably search, scrape, and interact with web content at scale, handling complexities like JavaScript and proxies for you.","How to Clone Any Website Design with Gemini 3.0 + Firecrawls Branding Mode
+ https://www.youtube.com/watch?v=1F3aXp3pJ9g
+ 
+
+ Give Claude Code Real Web Skills with Firecrawl CLI (Full Walkthrough)
+ https://www.youtube.com/watch?v=ccjQ3hMPePs
+ 
+
+ Firecrawl v2 MCP + n8n = INCREDIBLE Web Scraping AI Agent (No Code Tutorial)
+ https://www.youtube.com/watch?v=DrFKn9BiWCE
+ 
+
+ Scrape ANY Website With AI For FREE with Firecrawl! Best AI Web Scraper (Opensource)
+ https://www.youtube.com/watch?v=2s2aR4rOQ8Y
+ 
+
+ Master the Crawl Endpoint for Automated Web Scraping (Firecrawl)
+ https://www.youtube.com/watch?v=D_Xs_Qncsu0
+ 
+
+ Introducing Firecrawl CLI
+ https://www.youtube.com/watch?v=lBOkbKf0iLo
+ 
+
+ Firecrawl Browser Sandbox: Easy Web Research with Claude Code
+ https://www.youtube.com/watch?v=nhuvhNWmilg
+ 
+
+ Claude Cowork Scheduled Tasks: Build an Automated Data Fetcher with Firecrawl
+ https://www.youtube.com/watch?v=PEeraOTVhT8
+ 
+
+ Upgrade Your Openclaw With Firecrawl Browser Feature
+ https://www.youtube.com/watch?v=KkvcLUXWXe8",100868,6709,https://github.com/firecrawl/firecrawl
+vxcontrol/pentagi,532,447,Fully autonomous AI Agents system capable of performing complex penetration testing tasks,"This repo is right for you if you want an AI-powered, automated penetration testing platform that runs in isolated containers and includes a suite of professional security tools.","PentAGI - AI Agents for Penetration Testing
+ https://www.youtube.com/watch?v=G8fKRp0Faos
+ 
+
+ PentAGI Autonomous AI Agents for Complex Penetration Testing
+ https://www.youtube.com/watch?v=aT9A0o9uVYA
+ 
+
+ Trending Open-Source GitHub Projects : PentAGI, WebLLM, FreeMoCap, Zvec, MemU & React-Doctor 233
+ https://www.youtube.com/watch?v=3LE_h8asl8s
+ 
+
+ PentAGI overview
+ https://www.youtube.com/watch?v=R70x5Ddzs1o
+ 
+
+ vxcontrol/pentagi - Gource visualisation
+ https://www.youtube.com/watch?v=-dRGSiOjtYI",13902,1734,https://github.com/vxcontrol/pentagi
+browser-use/browser-use,526,514,🌐 Make websites accessible for AI agents. Automate tasks online with ease.,"This repo is right for you if you want to automate web browser tasks using AI agents, with options for both open-source local use and a more capable managed cloud service.","NEW Claude Browser Use AI Agent: Automate ANYTHING!
+ https://www.youtube.com/watch?v=QHfUAaIVfGE",85026,9850,https://github.com/browser-use/browser-use
+shanraisshan/claude-code-best-practice,508,149,practice made claude perfect,"This repo is right for you if you want to learn and implement advanced, production-ready workflows and best practices for using Claude Code as an AI-powered development environment.","shanraisshan/claude-code-best-practice - Gource visualisation
+ https://www.youtube.com/watch?v=WZIbnutiKiM",24909,2130,https://github.com/shanraisshan/claude-code-best-practice
+harry0703/MoneyPrinterTurbo,496,749,利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.,"This repo is right for you if you want to automatically generate short videos from a simple topic or keyword by producing scripts, sourcing footage, and adding subtitles and music through a web interface.","Install MoneyPrinterTurbo Locally - Generate Videos with One Click Using AI on CPU
+ https://www.youtube.com/watch?v=kAnqcmSUWIo
+ 
+
+ Earn on YouTube with a Viral Faceless Channel Free AI Makes Full Videos from Just a Prompt
+ https://www.youtube.com/watch?v=tydgQX7WZ4I
+ 
+
+ MoneyPrinterTurbo + OpenRouter + DeepSeekV3: Best Free One-Click Short Video Generator Local Install
+ https://www.youtube.com/watch?v=YFumgagpn4I
+ 
+
+ 一键生成短视频 云端部署MoneyPrinterTurbo
+ https://www.youtube.com/watch?v=V-AFz4zh9p8
+ 
+
+ AI 一键搞定短视频MoneyPrinterTurbo 保姆级教程 AI 自动生成视频从入门到精通 告别繁琐带你体验 AI 视频创作新纪元
+ https://www.youtube.com/watch?v=-APk3DzmJRM
+ 
+
+ 全自动AI短视频工厂一个可以帮你赚钱的n8n工作流0成本睡后收益无需显卡
+ https://www.youtube.com/watch?v=oIoW1WgZe-A
+ 
+
+ 分享 用 MoneyPrinterTurbo AI 自動化產生 YouTube 短影音 Shorts我用 Mac 跟 Windows 做示範
+ https://www.youtube.com/watch?v=vWBf5p--fr4
+ 
+
+ 免安裝用 AI 自動生成短影音免費開源專案 輸入主題自動生成腳本找素材配音上字幕MoneyPrinterTurbo 使用教學 ai llm
+ https://www.youtube.com/watch?v=tsTr9F6KTy8
+ 
+
+ MoneyprinterTurbo一键生成短视频
+ https://www.youtube.com/watch?v=rvTS6A2AXi0
+ 
+
+ 一键批量生成视频开源项目营销号福利AIMoneyPrinterTurbo
+ https://www.youtube.com/watch?v=w5CvYOD0lZU",54060,7630,https://github.com/harry0703/MoneyPrinterTurbo
+farion1231/cc-switch,479,237,"A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.","This repo is right for you if you want a single desktop app to visually manage and switch between API providers for multiple AI coding CLI tools like Claude Code, Codex, and Gemini CLI.","farion1231/cc-switch - Gource visualisation
+ https://www.youtube.com/watch?v=qtMt_TTD76I",35517,2111,https://github.com/farion1231/cc-switch
+tanweai/pua,472,21,你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。 一个agent使用的高能动性的skill。 Your AI has been placed on a PIP. 30 days to show improvement.,This repo is right for you if you want to use corporate performance pressure tactics as a plugin to make AI coding assistants like Claude and Copilot try harder and avoid giving up easily.,,13574,741,https://github.com/tanweai/pua
+chenglou/pretext,468,22,,"This repo is right for you if you want to measure and lay out multiline text in JavaScript/TypeScript with high performance and accuracy, without triggering browser reflow, for use cases like virtualization, custom layouts, or server-side rendering.","Pretext Just Broke the Web UI Rules (and Devs Are Freaking Out)
+ https://www.youtube.com/watch?v=Ef1sc6ocssI
+ 
+
+ Pretext: It uses pure JavaScript and arithmetic to measure text, completely bypassing the DOM
+ https://www.youtube.com/watch?v=mUpOa3bp4P8",15769,590,https://github.com/chenglou/pretext
+hacksider/Deep-Live-Cam,464,917,real time face swap and one-click video deepfake with only a single image,"This repo is right for you if you want to create real-time face swaps and deepfake videos from a single image with a focus on ease of use, though it requires careful ethical consideration.","Install Deep Live Cam Locally for Realtime Face Swap
+ https://www.youtube.com/watch?v=MICScLVM1x8
+ 
+
+ ""Deep-Live-Cam + OpenVINO Boost: Real-Time Face Swap on Low-End PC!""
+ https://www.youtube.com/watch?v=8V8kVAoCbc8
+ 
+
+ Latest Deep Live Cam Installation Ai Fake Video Call
+ https://www.youtube.com/watch?v=dp_ohw4xNR0
+ 
+
+ Deep live cam 2.0 latest update installation
+ https://www.youtube.com/watch?v=A9xrqwCgAXA
+ 
+
+ deep live cam installation instruction
+ https://www.youtube.com/watch?v=UP4mRTMY464
+ 
+
+ How to install Deep Live Cam Swap faces Live Webcam
+ https://www.youtube.com/watch?v=BYauQPACTiI",85850,12490,https://github.com/hacksider/Deep-Live-Cam
+Yeachan-Heo/oh-my-claudecode,451,80,Teams-first Multi-agent orchestration for Claude Code,"This repo is right for you if you want to use Claude Code with a powerful, zero-configuration multi-agent orchestration system that automates complex coding tasks across Claude, Codex, and Gemini.","Oh My Claude Code: Multi-Agent Orchestration with Zero Learning Curve
+ https://www.youtube.com/watch?v=VOjZ8Htv9NU
+ 
+
+ Interview with Bellman: The Harness Engineer of oh-my-codex and oh-my-claudecode
+ https://www.youtube.com/watch?v=1qYuyGq7SBU
+ 
+
+ 32 Agents, 6 Modes, Zero Learning Curve Oh My Claude Code Shorts
+ https://www.youtube.com/watch?v=m33H3pb2AIs",16903,1185,https://github.com/Yeachan-Heo/oh-my-claudecode
+JCodesMore/ai-website-cloner-template,437,16,Clone any website with one command using AI coding agents,"This repo is right for you if you want to use an AI agent to automatically convert any live website into a clean, modern Next.js codebase.",,6092,720,https://github.com/JCodesMore/ai-website-cloner-template
+koala73/worldmonitor,424,80,"Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface","This repo is right for you if you want to self-host a powerful, all-in-one desktop and web dashboard that uses local AI to monitor and correlate global news, maps, financial markets, and geopolitical risks in real-time.","Live Web World Monitor https://github.com/koala73/worldmonitor
+ https://www.youtube.com/watch?v=CjOMTjNUqWw",45383,7286,https://github.com/koala73/worldmonitor
+agentscope-ai/agentscope,417,808,"Build and run agents you can see, understand and trust.","This repo is right for you if you want a production-ready, easy-to-use framework for building AI agents with built-in support for voice, multi-agent workflows, and model fine-tuning.","Trending Open-Source Github Projects : Project AIRI, OpenViking, AgentScope, Superset & Nova
+ https://www.youtube.com/watch?v=5WK0Opjhngw
+ 
+
+ AgentScope AI: Build Scalable, Multi-Agent AI with Safe Sandbox & ReAct!
+ https://www.youtube.com/watch?v=XCL0DjYz-EU
+ 
+
+ agentscope - GitHub Trending Today
+ https://www.youtube.com/watch?v=gJhfntXXuDI
+ 
+
+ agentscope-ai/agentscope - Gource visualisation
+ https://www.youtube.com/watch?v=rWDTDbNgFMk
+ 
+
+ agentscope Went From 0 to 18K Stars No Way Agentscope Agent Chatbot LargeLanguageModels Llm
+ https://www.youtube.com/watch?v=sfpaX-oiYJM
+ 
+
+ Trending Github Repos: claude-subconscious, agentscope, FreeCAD, onyx, vibevoice, langfuse - Ep. 11
+ https://www.youtube.com/watch?v=ppLY1hJwFG8
+ 
+
+ AgentScope: Drag-And-Drop UI To Create Applications! - Multi-Agent AI Framework!
+ https://www.youtube.com/watch?v=Mtva20OEh6o
+ 
+
+ AgentScope 1.0 Developer Tutorials: Building Secure & Scalable Agents With AgentScope Runtime
+ https://www.youtube.com/watch?v=kTm0jQr9rnQ
+ 
+
+ AgentScope 1.0 Developer Tutorials: Deep Research Agent
+ https://www.youtube.com/watch?v=b7Cj1GTNBW4
+ 
+
+ AgentScope 1.0 Developer Tutorials: Building a Browser-use Agent
+ https://www.youtube.com/watch?v=prEmGlCkR6E",22272,2223,https://github.com/agentscope-ai/agentscope
+anthropics/claude-code,416,400,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",This repo is right for you if you want a terminal-based AI coding assistant that understands your codebase and handles tasks through natural language commands.,,84450,7144,https://github.com/anthropics/claude-code
+opendataloader-project/opendataloader-pdf,406,321,PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.,This repo is right for you if you want to accurately parse PDFs into structured data for AI applications and also automate PDF accessibility tagging.,"opendataloader-project/opendataloader-pdf - Gource visualisation
+ https://www.youtube.com/watch?v=xgpVGJuh8Qo",10738,802,https://github.com/opendataloader-project/opendataloader-pdf
+supermemoryai/supermemory,399,761,"Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.","This repo is right for you if you want to add a state-of-the-art, all-in-one memory and context layer to your AI applications or give your personal AI assistants persistent, learning memory across conversations.","Supermemory: The 1 Memory Engine for AI That Actually Remembers You
+ https://www.youtube.com/watch?v=JRBtl_I4vRM
+ 
+
+ OpenClaw's Memory Sucks and the fix is simple Dhravya Shah, Supermemory
+ https://www.youtube.com/watch?v=Io0mAsHkiRY
+ 
+
+ Open Source Friday: Supermemory
+ https://www.youtube.com/watch?v=83DRdPdod7k",20431,1880,https://github.com/supermemoryai/supermemory
+thedotmack/claude-mem,397,210,"A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",This repo is right for you if you want to add a persistent memory system to Claude Code that automatically saves and summarizes your session context for future use.,"GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claud...
+ https://www.youtube.com/watch?v=FBsUulOaQl8
+ 
+
+ thedotmack/claude-mem - Gource visualisation
+ https://www.youtube.com/watch?v=4u7lAm8IGJo",43209,3207,https://github.com/thedotmack/claude-mem
+THU-MAIC/OpenMAIC,373,19,"Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click","This repo is right for you if you want to turn any topic into an interactive, multi-agent AI classroom with slides, quizzes, and simulations that you can generate from a chat app or a web interface.","I Let AI Teach Me Physics 700 Students Said It's Better Than Professors (OpenMAIC)
+ https://www.youtube.com/watch?v=XRXxeHZOXig
+ 
+
+ Tsinghua Open-Sourced an AI That Teaches Better Than Professors
+ https://www.youtube.com/watch?v=P-NQgL1Hbhs
+ 
+
+ Build AI Classrooms to Learn Any Topic with OpenMAIC in 1 Prompt
+ https://www.youtube.com/watch?v=DXZNsVTUdmI
+ 
+
+ China Just Built a Full AI School (Open Source)
+ https://www.youtube.com/watch?v=yakVKHHIAho
+ 
+
+ FREE AI Classroom Replace 50,000 Courses with This Tool!
+ https://www.youtube.com/watch?v=RqtAFEoRaXw
+ 
+
+ AI classrooms, self-evolving AI, Nvidia GTC, AI for polymarket, Google app builder: AI NEWS
+ https://www.youtube.com/watch?v=HCVkBC1Vhcw
+ 
+
+ OPEN-MAIC: AULAS CON MULTIAGENTES INTERACTUANDO- OPENSOURCE - SECUENCIAS COMPLETAS Y MÁS...
+ https://www.youtube.com/watch?v=J1VdnDJ4iLI",13311,2106,https://github.com/THU-MAIC/OpenMAIC
+hsliuping/TradingAgents-CN,371,277,基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版,"This repo is right for you if you want to use a localized, multi-agent AI platform for learning and researching stock analysis in Chinese markets, with enhanced features and a focus on education over live trading.","GitHub - hsliuping/TradingAgents-CN: 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+ https://www.youtube.com/watch?v=gQ4r3MTTi1M
+ 
+
+ hsliuping/TradingAgents-CN - Gource visualisation
+ https://www.youtube.com/watch?v=XjQU452_fBE
+ 
+
+ GitHub - hsliuping/TradingAgents-CN: 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+ https://www.youtube.com/watch?v=cVW5mjZpvW4
+ 
+
+ 新手也能学会的投资项目推荐
+ https://www.youtube.com/watch?v=mJ_QjbGsV0A
+ 
+
+ AI가 알아서 주식 거래? 'TradingAgents-CN' 금융 AI 끝판왕!
+ https://www.youtube.com/watch?v=5MVdj_80Qa8
+ 
+
+ GitHub Trending Repositories: hsliuping/TradingAgents-CN
+ https://www.youtube.com/watch?v=8eLGZfxzJ5E
+ 
+
+ GitHub Trend Depoları: hsliuping/TradingAgents-CN
+ https://www.youtube.com/watch?v=_kvhlBTJkKY",22205,4573,https://github.com/hsliuping/TradingAgents-CN
+jingyaogong/minimind,370,611,🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!,"This repo is right for you if you want to learn how to build and train a small language model from scratch with minimal cost and a full-stack, hands-on educational approach.","成本不到 15 元minimind 教你用 2 小時訓練 26M 參數 GPT這才是平民版 AI
+ https://www.youtube.com/watch?v=ewycarYziTE
+ 
+
+ GitHub - jingyaogong/minimind: 大模型3小时完全从0训练26M的小参数GPT个人显卡即可推理训练
+ https://www.youtube.com/watch?v=UNeZRCPIl6s",44696,5385,https://github.com/jingyaogong/minimind
+NVIDIA/NemoClaw,365,14,Run OpenClaw more securely inside NVIDIA OpenShell with managed inference,"This repo is right for you if you want to run an OpenClaw AI assistant in a secure, sandboxed environment using NVIDIA's OpenShell runtime.","Trending AI Projects 3: NVIDIA NemoClaw, nightingale, OpenViktor, AutoResearchClaw, OpenHanako
+ https://www.youtube.com/watch?v=v-6nm3gnh6g
+ 
+
+ Nvidia NemoClaw Cloud Setup in Under 15 Minutes Secured OpenClaw Setup
+ https://www.youtube.com/watch?v=dEL9tKwvejo
+ 
+
+ NemoClaw: NVIDIAs Security Stack for the AI Agent Era
+ https://www.youtube.com/watch?v=VdcMZKMgKRA
+ 
+
+ NVIDIA NemoClaw First Look: Secure AI or Just Over-Engineered?
+ https://www.youtube.com/watch?v=5v0RJkqjU8c
+ 
+
+ Nvidia NemoClaw vs OpenClaw Youre Picking Wrong
+ https://www.youtube.com/watch?v=Mxo0EAZpll0
+ 
+
+ NVIDIA NemoCLAW!! - GTC 2026
+ https://www.youtube.com/watch?v=NY2uwmX3uGc
+ 
+
+ I ran Nvidias NemoClaw for FREE without GPU (Secret Way)
+ https://www.youtube.com/watch?v=pIUSlcd6F1o
+ 
+
+ NVIDIA Nemoclaw + OpenShell: FASTEST Way to Install
+ https://www.youtube.com/watch?v=Cp2mzhBRh7Y
+ 
+
+ Nvidia NemoClaw + Alibaba HiClaw: The Best Open Source Enterprise OpenClaw Explained
+ https://www.youtube.com/watch?v=qkbX1HIksjU
+ 
+
+ NVIDIA NemoClaw Explained in 12 Minutes (OpenClaw For Business)
+ https://www.youtube.com/watch?v=IGFMja7lEws",17729,2040,https://github.com/NVIDIA/NemoClaw
+kepano/obsidian-skills,361,86,"Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.","This repo is right for you if you want to use AI agents like Claude Code to work with your Obsidian notes, including creating markdown, managing vaults, and editing canvases.","Claude Code + Obsidian = UNLIMITED Memory! Solves Claude's Memory Problem!
+ https://www.youtube.com/watch?v=srqWFT_TUec
+ 
+
+ Program Your Computer with Notes, Not Code Obsidian + AI Agents
+ https://www.youtube.com/watch?v=VLbH6Vx2Ww8",18273,1069,https://github.com/kepano/obsidian-skills
+lightpanda-io/browser,358,1146,Lightpanda: the headless browser designed for AI and automation,"This repo is right for you if you want a fast, lightweight, headless browser built from scratch for AI agents and automation, offering JavaScript execution and CDP compatibility without the bloat of Chromium.",,25959,1052,https://github.com/lightpanda-io/browser
+luongnv89/claude-howto,353,142,"A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.","This repo is right for you if you want to master Claude Code through a structured, visual tutorial with copy-paste templates rather than just reading reference documentation.",,8881,897,https://github.com/luongnv89/claude-howto
+pbakaus/impeccable,351,134,The design language that makes your AI harness better at design.,This repo is right for you if you want to use a comprehensive AI skill and command set to improve frontend design quality and avoid common UI/UX pitfalls.,"pbakaus/impeccable - Gource visualisation
+ https://www.youtube.com/watch?v=oqdfkqstsUw",14746,632,https://github.com/pbakaus/impeccable
+rtk-ai/rtk,350,66,"CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",This repo is right for you if you want to automatically compress command-line outputs to save tokens when using AI coding assistants like Claude Code or GitHub Copilot.,"RTK + AI Vision Robotic Lawn Mower
+ https://www.youtube.com/watch?v=AlN7naWY8RI
+ 
+
+ RoboUP, The Ultimate No Perimeter Wire RTK+AI Robot Lawn Mower - The Lab Testing
+ https://www.youtube.com/watch?v=Jys8Ma02ZD8
+ 
+
+ Sveaverken Alva Precision Mowing with RTK + AI Vision Technology
+ https://www.youtube.com/watch?v=L7rYQYfDYZg
+ 
+
+ RoboUP, RTK+AI No Perimeter Wire Robotic Mower For All Yards
+ https://www.youtube.com/watch?v=qDQMfG4d5IE
+ 
+
+ Now on Kickstarter: Roboup, Rtk+Ai No Perimeter Wire Robotic Mower For All Yards
+ https://www.youtube.com/watch?v=gicSyZTlVS8
+ 
+
+ The Newest AI-Powered Robotic Mower - RTK+AI Vision Fusion
+ https://www.youtube.com/watch?v=vG4zzG8fgBc",15468,779,https://github.com/rtk-ai/rtk
+VoltAgent/awesome-openclaw-skills,336,64,"The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞","This repo is right for you if you want to discover and install over 5,200 community-built skills to extend the capabilities of your locally-run OpenClaw AI assistant.","OpenClaw Agents Just Got Better With This
+ https://www.youtube.com/watch?v=JC53AcoFh-Q
+ 
+
+ Supercharge Your Local AI: The Ultimate Guide to OpenClaw Skills!
+ https://www.youtube.com/watch?v=QhTuHfRT7QY
+ 
+
+ OpenClaw Skills Explained in 1 Minute
+ https://www.youtube.com/watch?v=xFRRo9fo7Ko
+ 
+
+ GitHub Trending Weekly 21: awesome-openclaw-skills, LingBot-World, Sherlock, kreuzberg, Kimi K2.5
+ https://www.youtube.com/watch?v=cOyi0sjTZkA
+ 
+
+ Awesome openclaw skills: awesome-list for AI assistant skills, 700+ community tools
+ https://www.youtube.com/watch?v=kzzEk_A1TKY",43094,4108,https://github.com/VoltAgent/awesome-openclaw-skills
+Fission-AI/OpenSpec,334,237,Spec-driven development (SDD) for AI coding assistants.,"This repo is right for you if you want to add a lightweight, flexible specification framework to your existing AI coding tools to align on what to build before writing unpredictable code.","OpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial)
+ https://www.youtube.com/watch?v=gHkdrO6IExM
+ 
+
+ OpenSpec Changes Everything - No More Vibe Coding (Full Tutorial)
+ https://www.youtube.com/watch?v=5oUmpdpbejk
+ 
+
+ OpenSpec Changes Everything No More Vibe Coding! (Full Step-by-Step) AI AI Agent LLM
+ https://www.youtube.com/watch?v=xwpmPP4mNBQ
+ 
+
+ BMAD vs. Spek Kit vs. Open Spec: Which AI Coding Methodology is Best?
+ https://www.youtube.com/watch?v=sGYvGUkerA0
+ 
+
+ OpenSpec: Build Reliable Apps 100x Faster with Spec-Driven AI Development (Future of Vibe Coding!)
+ https://www.youtube.com/watch?v=UtZyvtexJRM
+ 
+
+ I Found the Simplest AI Dev Tool Ever
+ https://www.youtube.com/watch?v=cQv3ocbsKHY
+ 
+
+ OpenSpec is Insane: Spec Driven Development is 100X Better Than Vibe Coding
+ https://www.youtube.com/watch?v=wZFOW89Lsc0
+ 
+
+ 开发者最友好的规范工具比Cursor Plan更细比speckit更轻OpenSpec如何让AI编码更靠谱
+ https://www.youtube.com/watch?v=xTOY6ryjHSE
+ 
+
+ OpenSpec VS SpecKit: Which AI Development Framework is Worth Your Time? Live Comparison
+ https://www.youtube.com/watch?v=xNOffgNnmWw
+ 
+
+ OpenSpec EXPOSED The Spec-Driven AI Tool That Kills Vibe Coding (2026)
+ https://www.youtube.com/watch?v=3pEnCO_iN_k",35531,2356,https://github.com/Fission-AI/OpenSpec
+hectorvent/floci,332,40,"Light, fluffy, and always free - AWS Local Emulator","This repo is right for you if you want a free, lightweight, and open-source local AWS emulator that starts fast and doesn't require an account or authentication token.","Floci A free, open-source local AWS emulator
+ https://www.youtube.com/watch?v=LnWOf-Xezf0",2203,96,https://github.com/hectorvent/floci
+volcengine/OpenViking,329,84,"OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.","This repo is right for you if you want to build AI agents with a unified, filesystem-like database that efficiently manages context, reduces token costs, and improves retrieval through structured, observable memory.","OpenViking: ByteDance's OpenClaw Context Management Database
+ https://www.youtube.com/watch?v=lg0dFDIGh3Y
+ 
+
+ Trending Open-Source Github Projects : AReaL, ReMe, OpenViking, Cap, Plate 238
+ https://www.youtube.com/watch?v=H_BpnOBetvc
+ 
+
+ Trending Open-Source Github Projects : Project AIRI, OpenViking, AgentScope, Superset & Nova
+ https://www.youtube.com/watch?v=5WK0Opjhngw
+ 
+
+ OpenViking: The Context Database AI Agents Actually Need
+ https://www.youtube.com/watch?v=m0TViV3_cRY
+ 
+
+ OpenViking An AI Memory
+ https://www.youtube.com/watch?v=cxSe_fkNVcs
+ 
+
+ volcengine/OpenViking - Gource visualisation
+ https://www.youtube.com/watch?v=W0ScaDvVtjU
+ 
+
+ OpenViking: Your Agent Keeps Losing Memory shorts
+ https://www.youtube.com/watch?v=hKsyqP7qnuE
+ 
+
+ GitHub Trending Today - OpenViking, frontend-slides, awesome-langchain, MONAI, BabelDOC 11
+ https://www.youtube.com/watch?v=gdQgBNyOZVA
+ 
+
+ OpenViking: AI 에이전트의 체계적 두뇌
+ https://www.youtube.com/watch?v=LzXpbtu9Hfo
+ 
+
+ Openviking
+ https://www.youtube.com/watch?v=c3zqvZNEwEs",19997,1393,https://github.com/volcengine/OpenViking
+code-yeongyu/oh-my-openagent,327,117,omo; the best agent harness - previously oh-my-opencode,"This repo is right for you if you want to use a powerful, open-source AI coding assistant that orchestrates multiple LLMs and provides advanced tools like hash-anchored edits to automate complex development tasks.","Is a Single AI Agent Outdated? oh-my-openagent Turns an LLM into a Development Team Lead, Real-W...
+ https://www.youtube.com/watch?v=0Ah-A6pKoFY",44854,3347,https://github.com/code-yeongyu/oh-my-openagent
+Vaibhavs10/insanely-fast-whisper,320,901,,"This repo is right for you if you want to transcribe audio files extremely quickly on your own computer using a powerful, optimized command-line tool.","Voice to Text on a Mac with insanely-fast-whisper
+ https://www.youtube.com/watch?v=IO2Ef-YcB3s
+ 
+
+ Insanely Fast Whisper: Transcribe 2.5 Hours of Audio in 98 Seconds
+ https://www.youtube.com/watch?v=9QbCBCFvwPU
+ 
+
+ 150 分鐘音檔 98 秒轉完insanely-fast-whisper 實測這才是本地語音轉文字的極速體驗
+ https://www.youtube.com/watch?v=t1cZdRcvfbk
+ 
+
+ 150-minute audio converted in 98 seconds! Real-world test of insanely-fast-whisper the ultimat...
+ https://www.youtube.com/watch?v=P7rUV-B6HK4
+ 
+
+ Vaibhavs10/insanely-fast-whisper - Gource visualisation
+ https://www.youtube.com/watch?v=arwX_qCmkNI
+ 
+
+ ""Insanely Fast Whisper"" does local speech transcription at speed ai
+ https://www.youtube.com/watch?v=xBpCQBw410o",12134,870,https://github.com/Vaibhavs10/insanely-fast-whisper
+datawhalechina/hello-agents,318,204,📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程,"This repo is right for you if you want a comprehensive, hands-on tutorial to learn how to build AI-native agents from the ground up, covering everything from core principles to implementing multi-agent systems.","GitHub - datawhalechina/hello-agents: 从零开始构建智能体从零开始的智能体原理与实践教程
+ https://www.youtube.com/watch?v=3aHJJ_cyalA
+ 
+
+ datawhalechina/hello-agents - Gource visualisation
+ https://www.youtube.com/watch?v=BiivanQTlJA
+ 
+
+ GitHub - datawhalechina/hello-agents: 从零开始构建智能体从零开始的智能体原理与实践教程
+ https://www.youtube.com/watch?v=kWigM7JCx6k",32100,3626,https://github.com/datawhalechina/hello-agents
+daytonaio/daytona,315,783,Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code,"This repo is right for you if you want to securely and quickly run AI-generated code in isolated, programmatically controlled sandboxes.","GitHub - daytonaio/daytona: The Open Source Dev Environment Manager.
+ https://www.youtube.com/watch?v=0bP10xrW9x8
+ 
+
+ daytonaio/daytona - Gource visualisation
+ https://www.youtube.com/watch?v=WQOJkw16sRU",70932,5537,https://github.com/daytonaio/daytona
+sindresorhus/awesome,314,4279,😎 Awesome lists about all kinds of interesting topics,,"sindresorhus/awesome-npm - Gource visualisation
+ https://www.youtube.com/watch?v=9Zek95ztIsg
+ 
+
+ GitHub - sindresorhus/awesome: Awesome lists about all kinds of interesting topics
+ https://www.youtube.com/watch?v=9FA0yWHGZ5g
+ 
+
+ sindresorhus/awesome-observables - Gource visualisation
+ https://www.youtube.com/watch?v=hEzNug06Nv4",450074,33813,https://github.com/sindresorhus/awesome
+codecrafters-io/build-your-own-x,309,2881,Master programming by recreating your favorite technologies from scratch.,This repo is right for you if you want to learn how technologies work by following step-by-step tutorials to build your own versions from scratch.,"codecrafters-io/build-your-own-x - Gource visualisation
+ https://www.youtube.com/watch?v=M4G8pp29Yns
+ 
+
+ GitHub - codecrafters-io/build-your-own-x: Master programming by recreating your favorite technol...
+ https://www.youtube.com/watch?v=neCz2ZIoQIg",484629,45595,https://github.com/codecrafters-io/build-your-own-x
+JimLiu/baoyu-skills,309,76,,"This repo is right for you if you want to install a collection of Claude Code skills for generating various types of visual content like infographics, slides, cover images, and comics to improve your daily work efficiency.","baoyu-skills hit 9.4K GitHub stars BaoyuSkills AgentSkills ClaudeSkills CodexSkills Shorts
+ https://www.youtube.com/watch?v=C_mAzsMK0R4",12383,1395,https://github.com/JimLiu/baoyu-skills
+badlogic/pi-mono,309,232,"AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods","This repo is right for you if you want to build and manage AI agents with a suite of tools for coding, chat interfaces, and LLM deployments.","badlogic/pi-mono - Gource visualisation
+ https://www.youtube.com/watch?v=2KInP-f2cCQ",29144,3112,https://github.com/badlogic/pi-mono
+ZhuLinsen/daily_stock_analysis,304,79,LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.,"This repo is right for you if you want an automated, AI-powered system that analyzes your chosen stocks daily and pushes a decision dashboard to your preferred messaging apps.","开源推荐AI 炒股神器来了自动生成深度研报 + 飞书钉钉推送手把手教你部署 daily_stock_analysis (支持AI分析/问股对话)
+ https://www.youtube.com/watch?v=re8O2Pi32cw
+ 
+
+ Zero-cost deployment of an AI trading analyst! daily_stock_analysis Complete Guide automatic s...
+ https://www.youtube.com/watch?v=hQBt8wwsdfo
+ 
+
+ 零成本部署 AI 操盤手daily_stock_analysis 全攻略用 GitHub Actions 自動分析股票
+ https://www.youtube.com/watch?v=FxNurWWVdfE
+ 
+
+ ZhuLinsen/daily_stock_analysis hit 24K GitHub stars in 2 months DailyStockAnalysis Agent Ai Aigc
+ https://www.youtube.com/watch?v=CxTJ1_dnuOE",26989,27759,https://github.com/ZhuLinsen/daily_stock_analysis
+millionco/expect,296,18,Let agents test your code in a real browser,,,2826,110,https://github.com/millionco/expect
+datalab-to/chandra,287,172,"OCR model that handles complex tables, forms, handwriting with full layout.","This repo is right for you if you want to use a state-of-the-art, open-source OCR model that converts documents into structured formats like HTML and Markdown while excelling at layout preservation, multilingual text, and complex elements like math and tables.",,7990,791,https://github.com/datalab-to/chandra
+ComposioHQ/awesome-claude-skills,278,164,"A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows","This repo is right for you if you want to find and use ready-made skills that enable Claude AI to perform specific, practical tasks like data analysis, coding, content creation, and connecting to external apps.","Claude Skills Explained: 4 Skills to 10x Your Coding Workflow
+ https://www.youtube.com/watch?v=bFC1QGEQ2E8
+ 
+
+ Agent Skills (Claude Skills) 详细攻略一期视频精通
+ https://www.youtube.com/watch?v=DNF0FJ9l7wo
+ 
+
+ Claude Code Skills are INSANE (and youre not using them correctly)
+ https://www.youtube.com/watch?v=thxXGxYIwUI",49313,5100,https://github.com/ComposioHQ/awesome-claude-skills
+louis-e/arnis,276,1296,Generate any location from the real world in Minecraft with a high level of detail.,This repo is right for you if you want to generate detailed Minecraft worlds from real-world geography and architecture using open-source geospatial data.,"How To Run Louis-e/Arnis In MACOS
+ https://www.youtube.com/watch?v=pwFapb0zyjc
+ 
+
+ louis-e/arnis hit 12K GitHub stars in 3.5 years Arnis Maps Minecraft Openstreetmap Osm Rust
+ https://www.youtube.com/watch?v=LNtk74LyEhQ
+ 
+
+ louis-e/arnis - Gource visualisation
+ https://www.youtube.com/watch?v=5Iqgk2x7bNA
+ 
+
+ GitHub - louis-e/arnis: Generate any location from the real world in Minecraft Java Edition with ...
+ https://www.youtube.com/watch?v=AvYBfA1Fa9k",13971,1114,https://github.com/louis-e/arnis
+aiming-lab/AutoResearchClaw,270,15,Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞,"This repo is right for you if you want to automatically generate a complete, citation-backed academic paper from a simple chat message, with no manual intervention required.","Trending Github: Infinite Monitor, TaxHacker, AutoResearchClaw, ShadowBroker, & more! (Episode 7)
+ https://www.youtube.com/watch?v=7UXPMyqf3cQ
+ 
+
+ AutoResearchClaw - A next-gen system where AI doesnt just answer questions
+ https://www.youtube.com/watch?v=tYq2AoC5ELg
+ 
+
+ GitHub Trending Weekly 27: Remodex, chrome-cdp, GSD 2, TADA, ATLAS, skales, AutoResearchClaw
+ https://www.youtube.com/watch?v=E7C2msOl2gQ
+ 
+
+ Trending AI Projects 3: NVIDIA NemoClaw, nightingale, OpenViktor, AutoResearchClaw, OpenHanako
+ https://www.youtube.com/watch?v=v-6nm3gnh6g
+ 
+
+ You need to see this: AutoResearchClaw Shorts
+ https://www.youtube.com/watch?v=s0eKzkD9WC0",9562,1042,https://github.com/aiming-lab/AutoResearchClaw
+router-for-me/CLIProxyAPI,270,271,"Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API","This repo is right for you if you want to use your existing AI service subscriptions (like ChatGPT, Claude, or Gemini) with command-line and coding tools without needing separate API keys.","Unlock Free AI Power with CLIProxyAPI for Gemini Claude and GPT
+ https://www.youtube.com/watch?v=O_qPdYXyws8
+ 
+
+ VibeProxy: How to Get 5 More AI Usage Without Paying for API Tokens
+ https://www.youtube.com/watch?v=oFqpXgD9v3U
+ 
+
+ OpenClaw - Connect CLIProxy và OpenClaw để sử dụng AI model MIỄN PHÍ!
+ https://www.youtube.com/watch?v=y3h4Smor9g4
+ 
+
+ 2026最新AI额度聚合神器一键整合Claude+Gemini+GPT Windows保姆级安装教程 CLIProxyAPI
+ https://www.youtube.com/watch?v=ckBT7FGezt0
+ 
+
+ Proxy Coding Agent to Another One
+ https://www.youtube.com/watch?v=97j3a87KecM
+ 
+
+ CLIProxyAPI - GitHub Trending Today
+ https://www.youtube.com/watch?v=7ImnZ3ZzK2Q
+ 
+
+ 2025.12.24 P1 - CLIProxyAPI + OAuths = Free APIs
+ https://www.youtube.com/watch?v=kpCZYZkVeCw
+ 
+
+ CLIProxyAPI 部署教程VPS域名SSL 与远程调用完整配置
+ https://www.youtube.com/watch?v=3KhDHeQ7MJs",21283,3504,https://github.com/router-for-me/CLIProxyAPI
+danveloper/flash-moe,266,11,Running a big model on a small laptop,,"Trending Open-Source Github Projects: MoneyPrinterV2, vllm-omni, Unsloth, OpenGauss & RCLI 242
+ https://www.youtube.com/watch?v=eg1__oCzDzI
+ 
+
+ flash-moe: A 400B Model Running on a MacBook?!
+ https://www.youtube.com/watch?v=-rk_9HqSquE",2262,229,https://github.com/danveloper/flash-moe
+lijigang/ljg-skills,263,22,,"This repo is right for you if you want to use a custom set of AI-powered tools for tasks like creating visual content cards, analyzing concepts, simplifying text, and conducting deep research.",,2270,203,https://github.com/lijigang/ljg-skills
+manaflow-ai/cmux,262,61,Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents,"This repo is right for you if you want a native, scriptable macOS terminal with integrated browser and notification features specifically designed for managing multiple AI coding agent sessions.","cmux: The AI Terminal That Sees Your Agents (iTerm2 vs cmux)
+ https://www.youtube.com/watch?v=vyVOTzctFN0
+ 
+
+ cmux: The Terminal Built for AI Coding Agents
+ https://www.youtube.com/watch?v=RhCHVg8klD4
+ 
+
+ So I stopped using Ghostty...
+ https://www.youtube.com/watch?v=EUE8N6mqtGg
+ 
+
+ cmux - the terminal built for multitasking
+ https://www.youtube.com/watch?v=i-WxO5YUTOs
+ 
+
+ cmux cli demo
+ https://www.youtube.com/watch?v=XKc1cVCFLDQ
+ 
+
+ how i use Claude Code across multiple projects at the same time
+ https://www.youtube.com/watch?v=d1T_farOOCE
+ 
+
+ CMUX: The first terminal for AI agents
+ https://www.youtube.com/watch?v=g0lIqYrWH-0
+ 
+
+ I Replaced My Terminal With This
+ https://www.youtube.com/watch?v=Og83jYPa_24",11575,803,https://github.com/manaflow-ai/cmux
+langchain-ai/deepagents,261,245,"Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.","This repo is right for you if you want a pre-built, customizable AI agent system with planning, file access, and shell tools that works out of the box.","Build a Research Agent with Deep Agents
+ https://www.youtube.com/watch?v=5tn6O0uXYEg
+ 
+
+ Build AI Agents That Work While You Sleep Deep Agents
+ https://www.youtube.com/watch?v=Ly9UDjiOpxg
+ 
+
+ Learning Skills with Deepagents
+ https://www.youtube.com/watch?v=c5yDkwjZG80
+ 
+
+ How I Made An AI EMPLOYEE with Deep Agents
+ https://www.youtube.com/watch?v=Uvt2rhoTxLk
+ 
+
+ Ralph Mode for Deep Agents: Running an Agent Forever
+ https://www.youtube.com/watch?v=yi4XNKcUS8Q
+ 
+
+ What Are Deep Agents? (And Why They're Better Than Regular Agents)
+ https://www.youtube.com/watch?v=HysYC2tuJiY
+ 
+
+ Building a Research Agent with Gemini 3 + Deep Agents
+ https://www.youtube.com/watch?v=39mZvpN0k-Q
+ 
+
+ Deep Agent CLI: Coding Assistant with Memory
+ https://www.youtube.com/watch?v=IrnacLa9PJc
+ 
+
+ Introduction To Using Deep Agents By LangChain
+ https://www.youtube.com/watch?v=vFU7FoKAc8g
+ 
+
+ Using deepagents to Build Deep Research (Python)
+ https://www.youtube.com/watch?v=geTtqyFnyHA",18172,2542,https://github.com/langchain-ai/deepagents
+D4Vinci/Scrapling,256,532,🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!,"This repo is right for you if you want to easily scrape modern websites that have anti-bot protections, using an adaptive Python framework that handles everything from simple requests to large-scale crawls.","Scrapling - Undetectable, Fast Web Scraping - Install Locally
+ https://www.youtube.com/watch?v=pc5-AwgkSgU
+ 
+
+ Scrapling + Ollama + MCP: Give Your Local AI Free Internet Access
+ https://www.youtube.com/watch?v=FxjyhjgfnG0
+ 
+
+ Master Web Scraping with Scrapling Adaptive Python Framework
+ https://www.youtube.com/watch?v=IcieMUapIuA",33826,2710,https://github.com/D4Vinci/Scrapling
+gofr-dev/gofr,255,888,An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.,"This repo is right for you if you want to build Kubernetes-ready microservices in Go with built-in observability, database tools, and many other production features.","Getting Started with GoFr: Build Your First Hello World HTTP Server in Golang with GoFr
+ https://www.youtube.com/watch?v=jB8k-_KHvmc
+ 
+
+ GoFr: An Opinionated Go Framework For accelerated microservice development
+ https://www.youtube.com/watch?v=nuPij8mG76g
+ 
+
+ Event-Driven Architecture in Golang: Pub/Sub with GoFr Made Efficient
+ https://www.youtube.com/watch?v=irYP4sgPUzY
+ 
+
+ Out of the box Observability in Golang with GoFr
+ https://www.youtube.com/watch?v=V8DQ8WiUyA0
+ 
+
+ Setting up Static Servers in Golang using GoFr
+ https://www.youtube.com/watch?v=cjZY0d0zjlM
+ 
+
+ Plug-and-Play Datasource Integration in Golang with GoFr
+ https://www.youtube.com/watch?v=YuAun1o4tNY
+ 
+
+ HTTP Communication in Golang with GoFr
+ https://www.youtube.com/watch?v=QgRpBWF4tK8
+ 
+
+ Environment-Based Configuration Mangement and Connecting to Database in Golang with GoFr
+ https://www.youtube.com/watch?v=5YUH0FBmF6o
+ 
+
+ Safe Service Intialization in Go using GoFr OnStart Hooks
+ https://www.youtube.com/watch?v=z9sSCWdWrEk
+ 
+
+ Build gRPC Services in Golang with GoFr
+ https://www.youtube.com/watch?v=6nFA2ck6GRE",21299,1756,https://github.com/gofr-dev/gofr
+HKUDS/OpenSpace,254,6,"""OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving"" -- Community: https://open-space.cloud/",This repo is right for you if you want to add a self-learning and cost-saving skill-sharing system to your existing AI agents.,"OpenSpace + OpenClaw Self-Evolving AI Agent Skills (Full Setup)
+ https://www.youtube.com/watch?v=O6pkA1CrbPo
+ 
+
+ AIエージェント革命スキルが自動で進化するOpenSpaceが凄すぎる修復強化創造を全自動化
+ https://www.youtube.com/watch?v=sMJA1AKxWlU
+ 
+
+ 5 Open Source Repos That Make Claude Code UNSTOPPABLE (March 2026)
+ https://www.youtube.com/watch?v=6SnFH43qPAw",2653,290,https://github.com/HKUDS/OpenSpace
+AstrBotDevs/AstrBot,252,1207,"Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨","This repo is right for you if you want to build and deploy AI chatbot agents that integrate directly into many popular messaging platforms like QQ, Telegram, and Slack.","AstrBotDevs/AstrBot - Gource visualisation
+ https://www.youtube.com/watch?v=OoO42r8OaL8
+ 
+
+ GitHub Trending Repositories: AstrBotDevs/AstrBot
+ https://www.youtube.com/watch?v=x9-uV1JJ4lk
+ 
+
+ GitHub Trend Depoları: AstrBotDevs/AstrBot
+ https://www.youtube.com/watch?v=EUtWksrmtfc",28255,1898,https://github.com/AstrBotDevs/AstrBot
+abhigyanpatwari/GitNexus,248,239,"GitNexus: The Zero-Server Code Intelligence Engine -  GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration","This repo is right for you if you want to give AI coding assistants a deep, structural understanding of your codebase to prevent breaking changes and improve reliability.","abhigyanpatwari/GitNexus - Gource visualisation
+ https://www.youtube.com/watch?v=PAY65G_klQ0",20744,2366,https://github.com/abhigyanpatwari/GitNexus
+eze-is/web-access,247,12,给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治,"This repo is right for you if you want to add comprehensive web browsing, automation, and strategic internet access capabilities to your Claude Code agent.",,2607,186,https://github.com/eze-is/web-access
+coreyhaines31/marketingskills,247,73,"Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.","This repo is right for you if you want to give your AI coding agent specialized skills for marketing tasks like SEO, copywriting, and conversion optimization.",,17508,2633,https://github.com/coreyhaines31/marketingskills
+mattpocock/skills,245,54,"My personal directory of skills, straight from my .claude directory.","This repo is right for you if you want to use a collection of pre-built AI agent skills to help with planning, coding, and tooling tasks in your development workflow.",,10915,895,https://github.com/mattpocock/skills
+gnekt/My-Brain-Is-Full-Crew,242,9,"Built by a PhD whose memory was failing, whose diet was a mess, and whose anxiety had its own agenda. Most second brain tools ignore the fact that your brain doesn't work in isolation: your body and your mental health are part of the system too. This crew handles all three: knowledge, nutrition, and mental wellness.","This repo is right for you if you want to manage your Obsidian vault entirely through conversation with a coordinated team of AI agents that handle organization, search, and life tasks in your native language.",,782,80,https://github.com/gnekt/My-Brain-Is-Full-Crew
+clash-verge-rev/clash-verge-rev,237,859,"A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience","This repo is right for you if you want a modern, cross-platform desktop GUI for managing the Clash Meta proxy client, with features like multi-language support, visual configuration, and built-in kernel management.","CARA INSTALL CLASH VERGE WINDOWS/LINUX/MACOS
+ https://www.youtube.com/watch?v=jXryeZ7DeTY
+ 
+
+ 2025最新版Clash Verge新手使用教程完美代替Clash最好用的电脑翻墙软件小白入门教程操作简单5分钟上手科学上网必备
+ https://www.youtube.com/watch?v=tqdTggtRTd4
+ 
+
+ 2026最新版Clash Verge使用教程重大更新非常好用clash verge rev 电脑翻墙入门教程 (添加订阅地址节点clash verge tun设置) 数码解码
+ https://www.youtube.com/watch?v=Zv9vNlY4OA8
+ 
+
+ 2026 最新Clash Verge 使用教程Windows 翻墙软件推荐下载/订阅配置/链式代理支持Win/MacOS/Linux
+ https://www.youtube.com/watch?v=wP8QYN4ltKg
+ 
+
+ 近期代理软件问题解决clash verge rev最新版bug卡死问题 以及替代软件mohomo Party
+ https://www.youtube.com/watch?v=kzsN_iGI8IU
+ 
+
+ 2025最强代理三款代理神器实测对比哪款才是你的网络刚需代理软件使用教程小白入门教程科学上网必备
+ https://www.youtube.com/watch?v=SIojU-gTKj8
+ 
+
+ 2025最新版Clash Verge新手使用教程最好用的Windows翻墙软件推荐 小白入门教程操作简单5分钟上手clash for window的替代版本
+ https://www.youtube.com/watch?v=9jPMxBKaP7k
+ 
+
+ 2025电脑翻墙工具最新版clash verge教程 免费节点获取
+ https://www.youtube.com/watch?v=iIoqWwjxLnU
+ 
+
+ 内附免费住宅ip资源全网最全 Clash Verge 设置指南节点测速链式代理一次讲清梯子 科学上网 住宅ip
+ https://www.youtube.com/watch?v=bqhGkgPhMiw
+ 
+
+ 告別複雜設定clash-verge-rev 實測一鍵開啟 TUN 模式輕鬆實現全局代理
+ https://www.youtube.com/watch?v=hSA3cdT-Ye8",106369,7716,https://github.com/clash-verge-rev/clash-verge-rev
+sickn33/antigravity-awesome-skills,236,74,"Installable GitHub library of 1,326+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.","This repo is right for you if you want to quickly install a large, searchable library of pre-made AI assistant skills for coding, debugging, and planning across tools like Claude Code and Cursor, instead of collecting prompts manually.","Antigravity Skills Kit: Use 1,239+ Agent Skills in One Command Makes It 100x Powerful
+ https://www.youtube.com/watch?v=RDuVmE95IWQ
+ 
+
+ Antigravity Awesome Skills - 1,265+ Skills Collection
+ https://www.youtube.com/watch?v=G9pkA5YXMLg
+ 
+
+ استخدم اقوي 626 Skills علي Antigravity بامر واحد
+ https://www.youtube.com/watch?v=EYWbm_RsRGo",28698,4807,https://github.com/sickn33/antigravity-awesome-skills
+virattt/dexter,235,166,An autonomous agent for deep financial research,This repo is right for you if you want to build an autonomous AI agent that plans and executes financial research using real-time market data.,,20530,2442,https://github.com/virattt/dexter
+larksuite/cli,235,5,"A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.","This repo is right for you if you want a powerful, AI-optimized command-line tool to automate tasks across Lark/Feishu's ecosystem like messaging, docs, and calendars.",,4342,196,https://github.com/larksuite/cli
+HKUDS/nanobot,234,57,"""🐈 nanobot: The Ultra-Lightweight OpenClaw""","This repo is right for you if you want to build and deploy a lightweight, extensible personal AI assistant that connects to multiple chat platforms with minimal code.","Nanobot with Local Ollama Models - Complete Easy Setup Guide
+ https://www.youtube.com/watch?v=AKxiKb42Cqk
+ 
+
+ Nanobot vs OpenClaw: It's Not Even Close
+ https://www.youtube.com/watch?v=bqk9XUzxyQc
+ 
+
+ OpenClaw vs ZeroClaw vs PicoClaw vs NullClaw vs NanoBot vs TinyClaw vs NanoClaw Full Comparison
+ https://www.youtube.com/watch?v=F7Y9X7xajKM
+ 
+
+ Nanobot: The AI That is 99 Smaller Than the Competition
+ https://www.youtube.com/watch?v=aG1skznExVQ",37042,6376,https://github.com/HKUDS/nanobot
+greensock/gsap-skills,234,25,"Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage.",This repo is right for you if you want to teach your AI coding assistant how to use the GSAP animation library correctly across various frameworks and plugins.,"Transform your website with GSAP Animation Mastery with 8 Official AI Skills
+ https://www.youtube.com/watch?v=gTaHzbffUWE
+ 
+
+ Web Animations & GSAP in 1 Hour
+ https://www.youtube.com/watch?v=yQbi7D7e_3s",1761,75,https://github.com/greensock/gsap-skills
+alibaba/page-agent,233,188,JavaScript in-page GUI agent. Control web interfaces with natural language.,This repo is right for you if you want to easily add a natural language AI copilot to control and automate interactions within your own web application directly from the client side.,"Alibaba PageAgent: GUI Agent Living in Your Webpage agent alibaba
+ https://www.youtube.com/watch?v=S4JJp31nbR4
+ 
+
+ alibaba/page-agent - Gource visualisation
+ https://www.youtube.com/watch?v=6j0vgFbCZqk
+ 
+
+ Alibaba Page Agent: A Pure-JS GUI Agent Embedded in Any Web App (No OCR, No Puppeteer)
+ https://www.youtube.com/watch?v=5i8_PYnNAIM
+ 
+
+ Alibaba Page Agent: GUI Agent Living in Your Webpage agent alibaba shorts
+ https://www.youtube.com/watch?v=dIzlFccAfCM
+ 
+
+ One Line of Code, Total Web Control: Testing Alibabas Page-Agent
+ https://www.youtube.com/watch?v=3oaBsGfKHuA",14663,1123,https://github.com/alibaba/page-agent
+microsoft/markitdown,230,501,Python tool for converting files and office documents to Markdown.,"This repo is right for you if you want to convert various file formats like PDFs, Word docs, and images into Markdown text optimized for use with large language models and text analysis tools.","How to Convert Excel, Word, PowerPoint & PDFs to Markdown with Python
+ https://www.youtube.com/watch?v=8mN16cORwkc
+ 
+
+ Microsoft MarkItDown: Convert Files and Office Documents to Markdown (Local Install Step by Step)
+ https://www.youtube.com/watch?v=Ghkyr_irQHE
+ 
+
+ Microsoft MarkItDown - Convert Files and Office Documents to Markdown - Install Locally
+ https://www.youtube.com/watch?v=v65Oyddfxeg
+ 
+
+ Convert Private Files to Markdown Without Uploading Online
+ https://www.youtube.com/watch?v=vvZ11rPff14
+ 
+
+ Is your GPT-4o bill burning through money on garbage? Microsoft markitdown helps you save 80 of...
+ https://www.youtube.com/watch?v=xh7bR7LLPcA
+ 
+
+ Turn Any Doc into Markdown: FastAPI + MarkItDown + .NET (in Docker)
+ https://www.youtube.com/watch?v=FN1dofPdiGY
+ 
+
+ 还能遥遥领先吗究竟效果如何微软开源MarkItDown转换任意文档为MarkDown
+ https://www.youtube.com/watch?v=umIdERJUTVI
+ 
+
+ 你的 GPT-4o 費用都在燒垃圾微軟 markitdown 幫你省下 80 無效 Token 成本
+ https://www.youtube.com/watch?v=UL5_XMT0cSw
+ 
+
+ MarkItDown Cloudy with a Chance of Insights EP22 podcast microsoftcloud
+ https://www.youtube.com/watch?v=PMhfgSTUjH8
+ 
+
+ GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.
+ https://www.youtube.com/watch?v=X5DVtfKZfP8",92859,5591,https://github.com/microsoft/markitdown
