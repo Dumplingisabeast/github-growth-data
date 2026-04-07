@@ -1,0 +1,794 @@
+repo_name,stars_gained,days_since_launch,description,right_for_you_if,youtube_howto_link,total_stars,forks,url,repo_id,owner,repo,created_at,language,license
+ultraworkers/claw-code,9041,7,The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.,This repo is right for you if you want to work with the public Rust implementation of the CLI agent harness for the UltraWorkers ecosystem.,"Claw Code + Clawhip - How to Set Up the Agent System That Rebuilt Claude Code
+https://www.youtube.com/watch?v=vkuQwGyeU2Y
+
+How to Install Claw Code in 5 Minutes (Open Source Claude Code)
+https://www.youtube.com/watch?v=0Q1Yn7GVVTo
+
+Claude code Is Finally Open Source...
+https://www.youtube.com/watch?v=pfT56RGTsWs",175765,104831,https://github.com/ultraworkers/claw-code,1197021090,ultraworkers,claw-code,2026-03-31T08:58:08Z,Rust,
+ultraworkers/claw-code,9041,7,The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.,This repo is right for you if you want to work with the public Rust implementation of the CLI agent harness for the UltraWorkers ecosystem.,"Claw Code + Clawhip - How to Set Up the Agent System That Rebuilt Claude Code
+https://www.youtube.com/watch?v=vkuQwGyeU2Y
+
+How to Install Claw Code in 5 Minutes (Open Source Claude Code)
+https://www.youtube.com/watch?v=0Q1Yn7GVVTo
+
+Claude code Is Finally Open Source...
+https://www.youtube.com/watch?v=pfT56RGTsWs",175765,104831,https://github.com/ultraworkers/claw-code,1197021090,ultraworkers,claw-code,2026-03-31T08:58:08Z,Rust,
+chenglou/pretext,5184,30,"Fast, accurate & comprehensive text measurement & layout","This repo is right for you if you want to measure and lay out multiline text in JavaScript/TypeScript with high performance and accuracy, without triggering browser layout reflows, for use cases like virtualization, custom layouts, or server-side rendering.","Pretext Just Broke the Web UI Rules (and Devs Are Freaking Out)
+https://www.youtube.com/watch?v=Ef1sc6ocssI
+
+Pretext: It uses pure JavaScript and arithmetic to measure text, completely bypassing the DOM
+https://www.youtube.com/watch?v=mUpOa3bp4P8",41041,2200,https://github.com/chenglou/pretext,1175538883,chenglou,pretext,2026-03-07T21:06:28Z,TypeScript,MIT License
+affaan-m/everything-claude-code,3339,79,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.","This repo is right for you if you want to install a comprehensive, production-ready performance optimization system for AI coding assistants like Claude Code, featuring skills, security, memory management, and cross-platform support.","affaan-m/everything-claude-code - Gource visualisation
+https://www.youtube.com/watch?v=E89_8lWzTvE",144239,22096,https://github.com/affaan-m/everything-claude-code,1136590548,affaan-m,everything-claude-code,2026-01-18T00:51:51Z,JavaScript,MIT License
+anthropics/claude-code,3333,408,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",This repo is right for you if you want a terminal-based AI coding assistant that understands your codebase and handles tasks through natural language commands.,,110460,18381,https://github.com/anthropics/claude-code,937253475,anthropics,claude-code,2025-02-22T17:41:21Z,Shell,
+Gitlawb/openclaude,2753,6,"Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.","This repo is right for you if you want a single, terminal-first coding agent CLI that works with many different AI model providers, both cloud-based and local.","How to install OpenClaude with any AI Model (Claude Code Open Source) - Open Claude
+https://www.youtube.com/watch?v=6kWhr1CPoIQ
+
+How to install OpenClaude with any AI Model (Claude Code Open Source) - Open Claude
+https://www.youtube.com/watch?v=th6g0eDn8HY
+
+How to install OpenClaude ( Claude Code Open Source with any AI Model)
+https://www.youtube.com/watch?v=Am0p9orSt14
+
+O Claude Code foi VAZADO!! Aprenda a instalar o OpenClaude
+https://www.youtube.com/watch?v=rS14BvZQ9JA
+
+OPENCLAUDE el CLAUDE-CODE GRATUITO en TERMUX Ollama Kimi-k2.5
+https://www.youtube.com/watch?v=7g4rIvQbiC0
+
+免费本地 AI 编程神器OpenClaude + Ollama 本地部署完整教程零 API 费用无限调用完全私密
+https://www.youtube.com/watch?v=Q_khhPm9Ttg",18664,6562,https://github.com/Gitlawb/openclaude,1197990888,Gitlawb,openclaude,2026-04-01T03:15:49Z,TypeScript,Other
+obra/superpowers,2243,179,An agentic skills framework & software development methodology that works.,"This repo is right for you if you want to give your AI coding agent a structured, automated workflow for planning, building, and reviewing software projects using test-driven development and systematic processes.","Superpowers: NEW Spec Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial)
+https://www.youtube.com/watch?v=7cOAayWzYDY",138869,11765,https://github.com/obra/superpowers,1073224795,obra,superpowers,2025-10-09T19:45:18Z,Shell,MIT License
+Yeachan-Heo/oh-my-codex,2148,64,"OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.","This repo is right for you if you want to enhance your OpenAI Codex CLI experience with a structured workflow layer for better prompts, skills, and project state management.","Interview with Bellman: The Harness Engineer of oh-my-codex and oh-my-claudecode
+https://www.youtube.com/watch?v=1qYuyGq7SBU
+
+100k Stars in a day. I Found the Founders Sigrid Jin & Bellman
+https://www.youtube.com/watch?v=RpFh0Nc7RvA
+
+OpenAI Codex Community Meetup OMX 코덱스를 마개조 하다 (Demo + Dev Story) 허예찬
+https://www.youtube.com/watch?v=XwFoegzihyE
+
+Oh My Codex: 내 AI 코더를 위한 관리자
+https://www.youtube.com/watch?v=-ZxgkEeN7UI",18032,1702,https://github.com/Yeachan-Heo/oh-my-codex,1148052330,Yeachan-Heo,oh-my-codex,2026-02-02T14:21:18Z,TypeScript,
+claude-code-best/claude-code,2146,7,"原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动","This repo is right for you if you want to use a reverse-engineered, open-source version of the official Claude Code CLI tool with support for many of its features and third-party API services.","Claude Code Tutorial for Beginners
+https://www.youtube.com/watch?v=eMZmDH3T2bY
+
+Claude Code Clearly Explained (and how to use it)
+https://www.youtube.com/watch?v=zxMjOqM7DFs",14543,14435,https://github.com/claude-code-best/claude-code,1197305828,claude-code-best,claude-code,2026-03-31T13:33:21Z,TypeScript,
+luongnv89/claude-howto,2042,150,"A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.","This repo is right for you if you want to learn Claude Code through a structured, visual tutorial with copy-paste templates rather than just reading the official feature documentation.",,22132,2629,https://github.com/luongnv89/claude-howto,1092047360,luongnv89,claude-howto,2025-11-07T22:59:34Z,Python,MIT License
+siddharthvaddem/openscreen,1878,179,"Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. ","This repo is right for you if you want a free, open-source desktop app to easily record and create polished screen demos with zooms, annotations, and custom backgrounds.","openscreen - GitHub Trending Today
+https://www.youtube.com/watch?v=24_hLlvG9So
+
+2026年别再为录屏软件花钱了免费好用的录屏软件分享
+https://www.youtube.com/watch?v=SmhScI1A5Wc
+
+Unveiling OpenScreen Your Go To Platform for Free Stunning Demos
+https://www.youtube.com/watch?v=EIjBzo6QM5o
+
+Why should making a demo video be held hostage by subscriptions? OpenScreen: a freedom tool for ...
+https://www.youtube.com/watch?v=rL1E5RhOzgs",24910,1656,https://github.com/siddharthvaddem/openscreen,1073433866,siddharthvaddem,openscreen,2025-10-10T05:36:55Z,TypeScript,MIT License
+openai/codex-plugin-cc,1681,7,Use Codex from Claude Code to review code or delegate tasks.,This repo is right for you if you want to use Codex for code reviews and task delegation directly within your Claude Code workflow.,"Claude Code Can Call Codex Now! (OpenAI Codex Plugin)
+https://www.youtube.com/watch?v=axFe_o5CVCg
+
+Claude Code Codex Plugin: What You Actually Need to Know
+https://www.youtube.com/watch?v=rGxiSnkbNtI
+
+OpenAI Just Built a Plugin for Claude Code Codex Inside CC
+https://www.youtube.com/watch?v=2ggYEEQ2ojA
+
+Claude Code + Codex = AI GOD
+https://www.youtube.com/watch?v=L7NPhaUBpZE
+
+Codex plugin for Claude Code lets you invoke Codex model directly inside your Claude Code terminal
+https://www.youtube.com/watch?v=E5d8hcpQKUI
+
+DeepSeek V4 Benchmarks LEAKED + Claude Code Computer Use + OpenAI's Codex Plugin!
+https://www.youtube.com/watch?v=nAZdk1d_QzU
+
+Claude code のpluginにcodexが　/plugin marketplace add openai/codex-plugin-cc
+https://www.youtube.com/watch?v=a_HOBnIxrVw
+
+Codex 要验 Claude Code牌在 Claude Code 中使用 Codex 插件 进行 ReviewOpenAI 官方出品
+https://www.youtube.com/watch?v=DqBf0JCSviM
+
+Codex v Claude Code? Open AI překvapilo novým pluginem pro Claude Code
+https://www.youtube.com/watch?v=OAgQTAkGgkk",12563,665,https://github.com/openai/codex-plugin-cc,1196321162,openai,codex-plugin-cc,2026-03-30T15:29:52Z,JavaScript,Apache License 2.0
+VoltAgent/awesome-design-md,1659,6,Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.,"This repo is right for you if you want to copy ready-made, plain-text design system files into your project so AI coding agents can generate pixel-perfect UI that matches a specific website's look and feel.","DESIGN.md Your AI Agent Can Now Build Pixel-Perfect UI
+https://www.youtube.com/watch?v=gLg8ZV5MSf8
+
+This Free Repo Fixes Claude Codes Worst Problem
+https://www.youtube.com/watch?v=rUSLnLTC5MY
+
+扔一个 DESIGN.md 进去AI 瞬间吐出顶级 UIVoltAgent awesome-design-md 让龙虾军团 coding 速度起飞
+https://www.youtube.com/watch?v=PebjAgd4QiI",28092,3474,https://github.com/VoltAgent/awesome-design-md,1197515131,VoltAgent,awesome-design-md,2026-03-31T16:37:01Z,HTML,MIT License
+microsoft/VibeVoice,1568,225,Open-Source Frontier Voice AI,"This repo is right for you if you want to explore open-source, state-of-the-art voice AI models for both long-form speech recognition and real-time text-to-speech generation.","An Open-Source Audio Model From Microsoft That Does Too Much
+https://www.youtube.com/watch?v=AyHSSslWeHE
+
+Microsoft VibeVoice Tutorial: 90-Minute Multi-Speaker TTS
+https://www.youtube.com/watch?v=HsHAvcEnzyQ
+
+VibeVoice Tutorial: Run Free Unlimited AI Text-to-Speech Locally
+https://www.youtube.com/watch?v=3583u_kZMok
+
+Install VibeVoice Real-Time AI Voice Generator Fast & Easy Method
+https://www.youtube.com/watch?v=M8lnq29hwkw
+
+VibeVoice: Microsoft's Open-Source Voice AI That Transcribes 60 Minutes in One Pass
+https://www.youtube.com/watch?v=6wZL0vhJzUk
+
+Qwen3 ASR vs VibeVoice ASR Whos the AI Transcription King?
+https://www.youtube.com/watch?v=ZXzuMx-iv1M
+
+微软开源 VibeVoice-ASR60 分钟长音频一把梭带说话人+时间戳实测附 Mac 本地部署
+https://www.youtube.com/watch?v=YkWkr4kGPa0
+
+Microsoft VibeVoice Realtime 0.5B Text to Speech - Install and Run Locally
+https://www.youtube.com/watch?v=KUy9wY8Me0E
+
+ComfyUI Tutorial Series Ep 65: VibeVoice Free Text to Speech Workflow
+https://www.youtube.com/watch?v=Frn1Lpd6TMU
+
+Microsoft VibeVoice ASR: Processing 60 Minutes of Audio in One Pass
+https://www.youtube.com/watch?v=r1_IvXoSzjI",37192,4282,https://github.com/microsoft/VibeVoice,1044296738,microsoft,VibeVoice,2025-08-25T13:24:01Z,Python,MIT License
+garrytan/gstack,1546,26,"Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA","This repo is right for you if you want to use a comprehensive, open-source toolkit of AI-powered slash commands to automate and accelerate your entire software development workflow, from planning and design to review, QA, and deployment.","gstack: How YC's CEO Ships 10,000 Lines of Code Per Day with Claude Code
+https://www.youtube.com/watch?v=62jZZ0LwKBc
+
+You NEED to try these open-source AI projects right now...
+https://www.youtube.com/watch?v=sXVbWkoCVaA
+
+This Tech-CEO's Claude Code Toolkit Will Blow You Away
+https://www.youtube.com/watch?v=MM320sAhFoY
+
+YCs Garry Tan: Use this Claude skill to Build 10x Faster
+https://www.youtube.com/watch?v=sHQk_13e-FE
+
+gstack 的 Build 是空的Superpowers 怎麼補上這個缺口
+https://www.youtube.com/watch?v=Zwi2SKUy_qY
+
+三大AI编程框架 - 做对了什么还可以如何优化
+https://www.youtube.com/watch?v=Y9hR2M4FE4I
+
+하루만에 만개의 깃허브 스타를 받은 gstack - YC CEO Garry Tan 의 뇌를 빌려 딸깍! Claude Code skills
+https://www.youtube.com/watch?v=vfn_Ezu1qfk
+
+用 gstack autoplan 一鍵審完 Plan不用再回答 30 個問題
+https://www.youtube.com/watch?v=rpTZzU4IbL8
+
+YC's CEO Just Gave Every Solo Founder a Free Engineering Team (gstack)
+https://www.youtube.com/watch?v=wUhxU9qAw7Y
+
+YC CEO 開源他的 Claude Code 工作流哪些人最值得安裝
+https://www.youtube.com/watch?v=wx7yqIyDTt8",66188,9117,https://github.com/garrytan/gstack,1179264259,garrytan,gstack,2026-03-11T21:22:45Z,TypeScript,MIT License
+paperclipai/paperclip,1513,35,Open-source orchestration for zero-human companies,"This repo is right for you if you want to orchestrate a team of different AI agents into a structured, autonomous company with features like org charts, budgets, and governance.","You NEED to try these open-source AI projects right now...
+https://www.youtube.com/watch?v=sXVbWkoCVaA
+
+Claude Code, Paperclip, & The Rise of ""AI Agent Companies""
+https://www.youtube.com/watch?v=Rgb-Kx-kkaA
+
+This AI Tool Can Run Your Entire Company-Hindi Video
+https://www.youtube.com/watch?v=_z0SI2FFIAk",49143,8016,https://github.com/paperclipai/paperclip,1170821064,paperclipai,paperclip,2026-03-02T15:01:51Z,TypeScript,MIT License
+openclaw/openclaw,1472,134,Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ,"This repo is right for you if you want to run a personal, local-first AI assistant that integrates with many messaging apps and offers voice, visual tools, and device control.","How to setup Nanobot In minutes (OpenClaw Alternative)
+https://www.youtube.com/watch?v=hF5Cs4RNoWQ
+
+How to Install and Use OpenClaw Skills (Full Beginner Guide) OpenClaw Skills Explained StepByStep
+https://www.youtube.com/watch?v=hXEKgSnD1Gs
+
+Full OpenClaw Setup Tutorial: Step-by-Step Walkthrough (Clawdbot)
+https://www.youtube.com/watch?v=fcZMmP5dsl4
+
+Supercharge Your Local AI: The Ultimate Guide to OpenClaw Skills!
+https://www.youtube.com/watch?v=QhTuHfRT7QY
+
+How to setup NullClaw ... an Even LIGHTER OpenClaw Competitor!
+https://www.youtube.com/watch?v=5zt2UnbIHEc
+
+How to Use NanoClaw (Better Than OpenClaw?)
+https://www.youtube.com/watch?v=wibalYcK0ZE
+
+OpenClaw Full Tutorial for Beginners How to Set Up and Use OpenClaw (ClawdBot / MoltBot)
+https://www.youtube.com/watch?v=n1sfrc-RjyM
+
+How to Set Up OpenClaw in 30 Minutes (Step-by-Step)
+https://www.youtube.com/watch?v=bKGbDWTM2b0
+
+The Ultimate Beginners Guide to OpenClaw
+https://www.youtube.com/watch?v=st534T7-mdE
+
+OpenClaw Tutorial for Beginners - Crash Course
+https://www.youtube.com/watch?v=u4ydH-QvPeg",350913,70525,https://github.com/openclaw/openclaw,1103012935,openclaw,openclaw,2025-11-24T10:16:47Z,TypeScript,MIT License
+NousResearch/hermes-agent,1434,258,The agent that grows with you,"This repo is right for you if you want to run a versatile, self-improving AI agent that works across many platforms and models, learns from its interactions, and can handle tasks from your terminal or messaging apps.","NousResearch/hermes-agent - Gource visualisation
+https://www.youtube.com/watch?v=iQrVKXXG-uc",30266,3959,https://github.com/NousResearch/hermes-agent,1024554267,NousResearch,hermes-agent,2025-07-22T22:22:28Z,Python,MIT License
+Yeachan-Heo/oh-my-claudecode,1360,88,Teams-first Multi-agent orchestration for Claude Code,"This repo is right for you if you want to use Claude Code with a powerful, zero-configuration multi-agent orchestration system that automates complex tasks through team workflows and specialized skills.","Oh My Claude Code: Multi-Agent Orchestration with Zero Learning Curve
+https://www.youtube.com/watch?v=VOjZ8Htv9NU
+
+Interview with Bellman: The Harness Engineer of oh-my-codex and oh-my-claudecode
+https://www.youtube.com/watch?v=1qYuyGq7SBU
+
+32 Agents, 6 Modes, Zero Learning Curve Oh My Claude Code Shorts
+https://www.youtube.com/watch?v=m33H3pb2AIs",25550,2348,https://github.com/Yeachan-Heo/oh-my-claudecode,1130809465,Yeachan-Heo,oh-my-claudecode,2026-01-09T03:36:29Z,TypeScript,MIT License
+emdash-cms/emdash,1271,6,EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress,"This repo is right for you if you want to build a modern, secure, and type-safe CMS with sandboxed plugins, using Astro and Cloudflare, as a direct alternative to WordPress.","EmDash: A full-stack TypeScript CMS built on Astro and Cloudflare
+https://www.youtube.com/watch?v=x_au8ho7O_4",8036,588,https://github.com/emdash-cms/emdash,1198246700,emdash-cms,emdash,2026-04-01T08:45:02Z,TypeScript,MIT License
+ultraworkers/claw-code-parity,1199,5,Join Discord: https://discord.gg/5TUQKqFWd /  claw-code Rust port parity work - it is temporary work while claw-code repo is doing migration,"This repo is right for you if you want to explore a high-velocity, autonomously maintained Python port of a coding agent system, driven by AI workflows rather than a conventional human dev team.","Claw Code : Run the Leaked Claude Code Locally (Legally)
+https://www.youtube.com/watch?v=OAqjyurTvzI
+
+GitHub Trending Today - awesome-indie, kokoro, Personal_AI_Infrastructure & More 23
+https://www.youtube.com/watch?v=p9ziu2UKZOU
+
+GitHub Trending Today - cloudstream, game-programmer, 100-exercises-to-learn-rust & More 22
+https://www.youtube.com/watch?v=ncoCBmAn1QA
+
+Zero Downtime: Migrating Legacy Code to Rust Shorts
+https://www.youtube.com/watch?v=i1YXwaPQZf8",6580,5405,https://github.com/ultraworkers/claw-code-parity,1199177582,ultraworkers,claw-code-parity,2026-04-02T05:39:02Z,Rust,
+sanbuphy/learn-coding-agent,197,7,Research on Coding Agents,"This repo is right for you if you want to study the internal architecture, hidden features, and future roadmap of the Claude Code CLI agent through compiled public analysis and research.",,11454,19695,https://github.com/sanbuphy/learn-coding-agent,1197029054,sanbuphy,learn-coding-agent,2026-03-31T09:07:08Z,,
+shanraisshan/claude-code-best-practice,1044,158,practice made claude perfect,"This repo is right for you if you want to learn and implement advanced, community-vetted best practices for using Claude Code, including orchestration workflows, agent teams, and productivity tips from expert users.","shanraisshan/claude-code-best-practice - Gource visualisation
+https://www.youtube.com/watch?v=WZIbnutiKiM",32701,3007,https://github.com/shanraisshan/claude-code-best-practice,1087192965,shanraisshan,claude-code-best-practice,2025-10-31T14:15:28Z,HTML,MIT License
+bytedance/deer-flow,1023,335,"An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.","This repo is right for you if you want to build and orchestrate AI agents with tools, memory, and sandboxed execution using an extensible, open-source framework.","Is AutoGPT stuck playing bit parts? ByteDance open-sources deer-flow, giving AI independent Dock...
+https://www.youtube.com/watch?v=niaGY19yrFs
+
+bytedance/deer-flow - Gource visualisation
+https://www.youtube.com/watch?v=b04Xn3sp-_U",59030,7432,https://github.com/bytedance/deer-flow,979115477,bytedance,deer-flow,2025-05-07T02:50:19Z,Python,MIT License
+msitarzewski/agency-agents,1017,176,"A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.","This repo is right for you if you want to use a large collection of specialized, personality-driven AI agent prompts to enhance your coding, design, marketing, or sales workflows with expert-level guidance.","This Free Repo Replaces Your Entire Team Agency Agents + Claude Code
+https://www.youtube.com/watch?v=f3rDD5I53Bk
+
+OpenClaw + Agency Agents + PinchBench: 10X Agency Productivity With This Insane Open-Source Swarm
+https://www.youtube.com/watch?v=47D3N4Z00EI
+
+This Github Repo Replaces All Your Employees
+https://www.youtube.com/watch?v=G9e-zMiPPRk
+
+msitarzewski/agency-agents - Gource visualisation
+https://www.youtube.com/watch?v=bMwvnaVg19Q",74087,11612,https://github.com/msitarzewski/agency-agents,1075372545,msitarzewski,agency-agents,2025-10-13T12:12:29Z,Shell,MIT License
+karpathy/autoresearch,974,31,AI agents running research on single-GPU nanochat training automatically,This repo is right for you if you want to experiment with an autonomous AI agent that iteratively improves a small language model by modifying its code and training it overnight.,"karpathy/autoresearch - Nightly Autonomous GPT Training
+https://www.youtube.com/watch?v=l9hIroSMTzA
+
+Karpathys """"autoresearch"""" research will never look the same!
+https://www.youtube.com/watch?v=YL-jQZFDWxQ
+
+Karpathys Autoresearch: We Achieved Near-Human Scores in 2 Hours!
+https://www.youtube.com/watch?v=9jxrmk_Xses
+
+Karpathy Autoresearch & The Ralph Wiggum Loop: The Future of Autonomous AI Agents
+https://www.youtube.com/watch?v=jfAIKrNMKvM
+
+Claude Code + Karpathys Autoresearch = The New Meta
+https://www.youtube.com/watch?v=4Cb_l2LJAW8
+
+I Used Karpathys Autoresearch to Train a Music-Generating AI Model!
+https://www.youtube.com/watch?v=-Ip9EtoBjbk
+
+Karpathys autoresearch: the lab that works while you sleep
+https://www.youtube.com/watch?v=nKwRnwhV3bc
+
+AutoResearch: Karpathy AI That Does Its Own ML Research
+https://www.youtube.com/watch?v=URdIeLW3GFg
+
+Karpathys autoresearch: 100 AI Experiments While You Sleep
+https://www.youtube.com/watch?v=OEL8ajBFJho",67860,9784,https://github.com/karpathy/autoresearch,1174820787,karpathy,autoresearch,2026-03-06T22:00:43Z,Python,
+titanwings/colleague-skill,972,8,将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶,"This repo is right for you if you want to create an AI-powered digital replica of a former colleague using their messages, documents, and your description to preserve their work style and personality.","Colleague Skill The Digital Resurrection
+https://www.youtube.com/watch?v=IAYZnNhhtSU",9682,798,https://github.com/titanwings/colleague-skill,1195828337,titanwings,colleague-skill,2026-03-30T05:22:23Z,Python,MIT License
+shareAI-lab/learn-claude-code,937,281,"Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1","This repo is right for you if you want to learn how to build the practical environment and tools for AI agents to operate effectively, rather than trying to program the intelligence itself.","GitHub Trending Repositories: shareAI-lab/learn-claude-code
+https://www.youtube.com/watch?v=6Na9iXcGWyM
+
+shareAI-lab/learn-claude-code - Gource visualisation
+https://www.youtube.com/watch?v=7VIW9m-7zgc",49521,8020,https://github.com/shareAI-lab/learn-claude-code,1010681419,shareAI-lab,learn-claude-code,2025-06-29T15:34:15Z,TypeScript,MIT License
+onyx-dot-app/onyx,931,1076,Open Source AI Platform - AI Chat with advanced features that works with every LLM,"This repo is right for you if you want to self-host a full-featured, open-source AI platform with RAG, web search, agents, and code execution.","Onyx - The open-source chat UI (Demo)
+https://www.youtube.com/watch?v=2g4BxTZ9ztg",25694,3426,https://github.com/onyx-dot-app/onyx,633262635,onyx-dot-app,onyx,2023-04-27T06:04:01Z,Python,Other
+paoloanzn/free-code,921,7,"[NOTE] Parent repo is migrating ownership, until the operation is done this repo is blocked. The free build of Claude Code. All telemetry removed, security-prompt guardrails stripped, all experimental features enabled.","This repo is right for you if you want to use a fully unlocked, privacy-focused version of the Claude Code CLI with all telemetry removed, guardrails stripped, and experimental features enabled.",,7217,1361,https://github.com/paoloanzn/free-code,1197145423,paoloanzn,free-code,2026-03-31T11:11:49Z,TypeScript,
+anthropics/skills,893,196,Public repository for Agent Skills,This repo is right for you if you want to explore example implementations and templates for creating custom skills that teach Claude how to perform specialized tasks.,,112171,12716,https://github.com/anthropics/skills,1061953414,anthropics,skills,2025-09-22T15:53:31Z,Python,
+ultraworkers/claw-code,9041,7,The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.,"This repo is right for you if you want to work with the public Rust implementation and CLI harness for the Claude Code agent, including its development workspace, parity tracking, and related tooling.","Claw Code + Clawhip - How to Set Up the Agent System That Rebuilt Claude Code
+https://www.youtube.com/watch?v=vkuQwGyeU2Y
+
+How to Install Claw Code in 5 Minutes (Open Source Claude Code)
+https://www.youtube.com/watch?v=0Q1Yn7GVVTo
+
+Claude code Is Finally Open Source...
+https://www.youtube.com/watch?v=pfT56RGTsWs",175765,104831,https://github.com/ultraworkers/claw-code,1197021090,ultraworkers,claw-code,2026-03-31T08:58:08Z,Rust,
+sherlock-project/sherlock,866,2661,Hunt down social media accounts by username across social networks,,,80209,9318,https://github.com/sherlock-project/sherlock,162998479,sherlock-project,sherlock,2018-12-24T14:30:48Z,Python,MIT License
+anomalyco/opencode,859,341,The open source coding agent.,"This repo is right for you if you want a free, open-source, and customizable AI coding assistant that runs in your terminal and works with various AI models.",,138858,15346,https://github.com/anomalyco/opencode,975734319,anomalyco,opencode,2025-04-30T20:08:00Z,TypeScript,MIT License
+ChinaSiro/claude-code-sourcemap,840,7,,This repo is right for you if you want to study the reconstructed TypeScript source code of the Claude Code npm package for unofficial research purposes.,,8578,14256,https://github.com/ChinaSiro/claude-code-sourcemap,1196984640,ChinaSiro,claude-code-sourcemap,2026-03-31T08:15:54Z,TypeScript,
+liquidslr/interview-company-wise-problems,759,461,"Lists of company wise questions. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of 20 June, 2025",,,22499,4432,https://github.com/liquidslr/interview-company-wise-problems,910609716,liquidslr,interview-company-wise-problems,2024-12-31T19:58:45Z,,
+jackwener/opencli,759,23,"Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration.","This repo is right for you if you want to control websites, Electron apps, and local tools directly from your terminal or through AI agents by reusing your existing browser sessions.","OpenCLI: Turn Any Website into a CLI
+https://www.youtube.com/watch?v=x5JYqsz8DWo
+
+想让AI去小红书知乎上搜集点资料是不是被各种反爬虫机制折磨别折腾了来看这个堪称降维打击的开源项目opencli它把任何网站直接变成命令行工具
+https://www.youtube.com/watch?v=_3G4lZro2GA
+
+OpenCLI: Every website you use can become a command now
+https://www.youtube.com/watch?v=QftH86XxP98",13976,1283,https://github.com/jackwener/opencli,1181982220,jackwener,opencli,2026-03-14T22:10:23Z,TypeScript,Apache License 2.0
+nextlevelbuilder/ui-ux-pro-max-skill,758,128,An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms,"This repo is right for you if you want an AI-powered tool that automatically generates complete, industry-specific UI/UX design systems and code for various platforms based on your project description.","Antigravity Tutorial: Build Beautiful UI/UX with Simple 2-Line Prompts
+https://www.youtube.com/watch?v=DY73sLDNBJc
+
+Antigravity UI/UX Skill: Build 100X Better & Modern Designs (100 Free)
+https://www.youtube.com/watch?v=9cf2-BoWsDc
+
+OpenCode UI/UX Skill: Build 100X Better & Modern Designs (100 Free)
+https://www.youtube.com/watch?v=Pc27ThkuBPQ
+
+UI/UX Pro Max - The Ultimate AI Design Intelligence Tool
+https://www.youtube.com/watch?v=dpkNeasHDaM
+
+Why Your AI Designs Look Like Garbage (And How to Fix It)
+https://www.youtube.com/watch?v=AUrc9VUKZLI
+
+70K Devs Use Ui Ux Pro Max AI Coding Agent Skill Shorts skills claude
+https://www.youtube.com/watch?v=BWgD6xfjvaE
+
+Google AntiGravity Skill Sets Are A GAME CHANGER (FREE)
+https://www.youtube.com/watch?v=AoDlrSEOqZg
+
+Antigravity AgentKit Supercharges Your AI 100x
+https://www.youtube.com/watch?v=vGh7wfULXGY
+
+7 Agent Skills Every Vibe Coder Needs
+https://www.youtube.com/watch?v=-1MPVzEOx2g
+
+Nunca Mais Faço Design Sem Esse Skill - PRO MAX + Antigravity!
+https://www.youtube.com/watch?v=ApV1MUvNdU8",60516,6014,https://github.com/nextlevelbuilder/ui-ux-pro-max-skill,1106996539,nextlevelbuilder,ui-ux-pro-max-skill,2025-11-30T11:36:31Z,Python,MIT License
+larksuite/cli,756,13,"The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 19 AI Agent Skills.","This repo is right for you if you want to control Lark/Feishu's core apps like Messenger, Docs, and Calendar through a powerful, AI-optimized command-line tool.",,6951,411,https://github.com/larksuite/cli,1191372811,larksuite,cli,2026-03-25T07:13:30Z,Go,MIT License
+google-research/timesfm,754,707,TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.,"This repo is right for you if you want to use Google's pretrained, decoder-only foundation model for scalable time-series forecasting with long-context support.","Google Just Killed Traditional Forecasting Meet TimesFM 2
+https://www.youtube.com/watch?v=GEvUm3eMqPM
+
+GitHub - google-research/timesfm: TimesFM (Time Series Foundation Model) is a pretrained time-ser...
+https://www.youtube.com/watch?v=J78hxGw9EUo
+
+TimesFM Time Series Forecasting (Google AI, Jupyter, and GPUs)
+https://www.youtube.com/watch?v=7QqUw29bJmc
+
+TimesFM: Forecasting Made Easy with Google's Foundation Model
+https://www.youtube.com/watch?v=265Mpaj8O1U
+
+Case Study: Google Research Simplifying Predictive Analytics with Times FM
+https://www.youtube.com/watch?v=bXBoOcuLuqI
+
+Google TimesFM: The Zero-Shot Foundation Model for Time-Series Forecasting. TimesFM Architecture LLM
+https://www.youtube.com/watch?v=oHhJkmYD3pw
+
+TimesFM-2.5: Advancing Zero-Shot Time-Series Forecasting. Generative AI Futures. Podcast Series.
+https://www.youtube.com/watch?v=r6QeqDMmzH0",15352,1354,https://github.com/google-research/timesfm,793784055,google-research,timesfm,2024-04-29T21:26:26Z,Python,Apache License 2.0
+mvanhorn/last30days-skill,754,73,"AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary","This repo is right for you if you want to automatically research any topic across multiple social media and news platforms to get a synthesized, citation-backed report on what's trending and being discussed in the last 30 days.","last30days-skill - GitHub Trending Today
+https://www.youtube.com/watch?v=c9o_a1J7S14
+
+mvanhorn/last30days-skill - Gource visualisation
+https://www.youtube.com/watch?v=SJ-9e1_I8zk
+
+8.4K+ Stars AI Research Tool last30days-skill Stay ahead of the AI curve shorts
+https://www.youtube.com/watch?v=IQNn0WyplPI
+
+last30days-skill - GitHub Trending Today
+https://www.youtube.com/watch?v=mQ8Rp4BzQ7M
+
+AI 에이전트가 30일간 리서치?! last30days-skill GitHubTrending
+https://www.youtube.com/watch?v=cJVBDGv5q_A",19409,1569,https://github.com/mvanhorn/last30days-skill,1140843380,mvanhorn,last30days-skill,2026-01-23T20:37:37Z,Python,MIT License
+HKUDS/OpenHarness,711,5,"""OpenHarness: Open Agent Harness""","This repo is right for you if you want to build, experiment with, or understand the core infrastructure—like tools, memory, and multi-agent coordination—that turns an LLM into a functional AI agent.","Google Gemma 4 開源大爆發HKUDS 輕量替代來襲AI GigiAI 觀觀AI第30集
+https://www.youtube.com/watch?v=fo2solpY6zU
+
+Google Gemma 4 開源突圍HKUDS 輕量替代A17 Pro 跑 LLMAI Gigi Shorts AI新聞
+https://www.youtube.com/watch?v=9z0sbh6bZnw
+
+Google Gemma 4 Open-Source Breakthrough! HKUDS Lightweight Alternative AI Gigi AI News EP30
+https://www.youtube.com/watch?v=lg_aJeSI7i4",6965,1201,https://github.com/HKUDS/OpenHarness,1198616956,HKUDS,OpenHarness,2026-04-01T15:37:13Z,Python,MIT License
+666ghj/MiroFish,710,132,"A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",This repo is right for you if you want to simulate future scenarios using a multi-agent AI engine that builds interactive digital worlds from real-world data for prediction and decision-making.,"666ghj/MiroFish - Gource visualisation
+https://www.youtube.com/watch?v=IXqtuA_pl_o",51110,7558,https://github.com/666ghj/MiroFish,1104332987,666ghj,MiroFish,2025-11-26T04:23:02Z,Python,GNU Affero General Public License v3.0
+JCodesMore/ai-website-cloner-template,709,25,Clone any website with one command using AI coding agents,"This repo is right for you if you want to use an AI coding agent to automatically convert any live website into a clean, modern Next.js and TypeScript codebase.",,8497,1133,https://github.com/JCodesMore/ai-website-cloner-template,1180745961,JCodesMore,ai-website-cloner-template,2026-03-13T11:14:39Z,TypeScript,MIT License
+hacksider/Deep-Live-Cam,698,926,real time face swap and one-click video deepfake with only a single image,"This repo is right for you if you want to create real-time face swaps and deepfake videos from a single image with a focus on ease of use, though it requires careful ethical consideration.","Install Deep Live Cam Locally for Realtime Face Swap
+https://www.youtube.com/watch?v=MICScLVM1x8
+
+""Deep-Live-Cam + OpenVINO Boost: Real-Time Face Swap on Low-End PC!""
+https://www.youtube.com/watch?v=8V8kVAoCbc8
+
+Latest Deep Live Cam Installation Ai Fake Video Call
+https://www.youtube.com/watch?v=dp_ohw4xNR0
+
+Deep live cam 2.0 latest update installation
+https://www.youtube.com/watch?v=A9xrqwCgAXA
+
+deep live cam installation instruction
+https://www.youtube.com/watch?v=UP4mRTMY464
+
+How to install Deep Live Cam Swap faces Live Webcam
+https://www.youtube.com/watch?v=BYauQPACTiI",89217,12960,https://github.com/hacksider/Deep-Live-Cam,695864515,hacksider,Deep-Live-Cam,2023-09-24T13:19:31Z,Python,GNU Affero General Public License v3.0
+JackChen-me/open-multi-agent,685,6,"TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.","This repo is right for you if you want a lightweight, TypeScript-native framework that automatically decomposes a goal into a parallel task graph for multi-agent collaboration.",,5301,2162,https://github.com/JackChen-me/open-multi-agent,1197656406,JackChen-me,open-multi-agent,2026-03-31T19:07:34Z,TypeScript,MIT License
+firecrawl/firecrawl,638,721,🔥 The Web Data API for AI - Power AI agents with clean web data,"This repo is right for you if you want to easily scrape, search, and interact with web content at scale for your AI agents or applications, with features like markdown conversion, JavaScript rendering, and structured data extraction.","How to Clone Any Website Design with Gemini 3.0 + Firecrawls Branding Mode
+https://www.youtube.com/watch?v=1F3aXp3pJ9g
+
+Give Claude Code Real Web Skills with Firecrawl CLI (Full Walkthrough)
+https://www.youtube.com/watch?v=ccjQ3hMPePs
+
+Firecrawl v2 MCP + n8n = INCREDIBLE Web Scraping AI Agent (No Code Tutorial)
+https://www.youtube.com/watch?v=DrFKn9BiWCE
+
+Scrape ANY Website With AI For FREE with Firecrawl! Best AI Web Scraper (Opensource)
+https://www.youtube.com/watch?v=2s2aR4rOQ8Y
+
+Master the Crawl Endpoint for Automated Web Scraping (Firecrawl)
+https://www.youtube.com/watch?v=D_Xs_Qncsu0
+
+Introducing Firecrawl CLI
+https://www.youtube.com/watch?v=lBOkbKf0iLo
+
+Firecrawl Browser Sandbox: Easy Web Research with Claude Code
+https://www.youtube.com/watch?v=nhuvhNWmilg
+
+Claude Cowork Scheduled Tasks: Build an Automated Data Fetcher with Firecrawl
+https://www.youtube.com/watch?v=PEeraOTVhT8
+
+Upgrade Your Openclaw With Firecrawl Browser Feature
+https://www.youtube.com/watch?v=KkvcLUXWXe8",105341,6862,https://github.com/firecrawl/firecrawl,787076358,firecrawl,firecrawl,2024-04-15T21:02:29Z,TypeScript,GNU Affero General Public License v3.0
+farion1231/cc-switch,638,246,"A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.","This repo is right for you if you want a single desktop app to visually manage API providers and settings for multiple AI coding CLI tools like Claude Code and Gemini CLI, instead of manually editing their config files.","farion1231/cc-switch - Gource visualisation
+https://www.youtube.com/watch?v=qtMt_TTD76I",40335,2530,https://github.com/farion1231/cc-switch,1031912724,farion1231,cc-switch,2025-08-04T14:16:16Z,Rust,MIT License
+code-yeongyu/oh-my-openagent,635,125,omo; the best agent harness - previously oh-my-opencode,"This repo is right for you if you want to replace your AI coding assistant with a free, open-source, multi-model orchestration system that automates complex development tasks with high reliability and parallel specialist agents.","Is a Single AI Agent Outdated? oh-my-openagent Turns an LLM into a Development Team Lead, Real-W...
+https://www.youtube.com/watch?v=0Ah-A6pKoFY",49194,3885,https://github.com/code-yeongyu/oh-my-openagent,1108837393,code-yeongyu,oh-my-openagent,2025-12-03T01:40:05Z,TypeScript,Other
+TheTom/turboquant_plus,625,13,,"This repo is right for you if you want to significantly compress the KV cache in local LLMs for long-context inference with minimal quality loss, using techniques like TurboQuant that have been validated on large models up to 104B parameters.","TurboQuant Isnt the Local AI Revolution (Part 2): My 3 llama.cpp Benchmarks That Break the Hype
+https://www.youtube.com/watch?v=1SmYiY5WVLc
+
+谷歌突发神级算法普通人Mac也能跑35B大模型了引发华尔街抛售狂潮大模型内存墙被彻底砸碎
+https://www.youtube.com/watch?v=o0dBzZlMtKw
+
+Improving Our TurboQuant Implementation for Windows
+https://www.youtube.com/watch?v=4S5NIE_294U
+
+GitHub Trending Weekly 28: NOMAD, Expect, OpenSpace, hyperspaceai, feynman, gea, lil-agents, optio
+https://www.youtube.com/watch?v=TpWlE0HCZwM",5812,802,https://github.com/TheTom/turboquant_plus,1191170056,TheTom,turboquant_plus,2026-03-25T01:35:36Z,Python,Apache License 2.0
+TauricResearch/TradingAgents,611,465,TradingAgents: Multi-Agents LLM Financial Trading Framework,"This repo is right for you if you want to experiment with a multi-agent AI framework where specialized LLM roles, like analysts and risk managers, collaborate to simulate and inform financial trading decisions.","TauricResearch/TradingAgents - Gource visualisation
+https://www.youtube.com/watch?v=248kMdZxllw",48156,8735,https://github.com/TauricResearch/TradingAgents,909213664,TauricResearch,TradingAgents,2024-12-28T03:31:08Z,Python,Apache License 2.0
+openai/codex,608,359,Lightweight coding agent that runs in your terminal,This repo is right for you if you want to install and run OpenAI's Codex coding agent locally on your computer via a CLI or desktop app.,"Getting started with Codex
+https://www.youtube.com/watch?v=px7XlbYgk7I
+
+Master OpenAI Codex in 26 minutes
+https://www.youtube.com/watch?v=EwVs3O2Zm6I
+
+OpenAI Codex in your code editor
+https://www.youtube.com/watch?v=sd21Igx4HtA
+
+Build beautiful frontends with OpenAI Codex
+https://www.youtube.com/watch?v=fK_bm84N7bs
+
+OpenAI Codex Tutorial 1 - Introduction & Setup
+https://www.youtube.com/watch?v=tIb_TzVNbDM
+
+Codex Skills Every Design Engineer Needs
+https://www.youtube.com/watch?v=IdqeXTXzY98
+
+How OpenAI's Codex Team Builds with Codex (43 Min) Alex & Romain
+https://www.youtube.com/watch?v=9qXc-THAvc0
+
+Gemini CLI vs Claude Code vs Codex Compared! Should You Use an AI CLI?
+https://www.youtube.com/watch?v=7fQcsPOm8ys
+
+Building a Mobile App with OpenAI Codex (Better than Claude Code)
+https://www.youtube.com/watch?v=eoEsVQJruow
+
+10 Codex tips I wish I knew sooner
+https://www.youtube.com/watch?v=qlxJgvjxxBU",73650,10360,https://github.com/openai/codex,965415649,openai,codex,2025-04-13T05:37:54Z,Rust,Apache License 2.0
+HKUDS/CLI-Anything,590,30,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub: https://clianything.cc/",This repo is right for you if you want to automatically generate command-line interfaces (CLIs) from existing software to make them usable by AI agents.,"CLI-Anything: Claude Code Can Now Run ANY App (30x Cheaper Than MCP)
+https://www.youtube.com/watch?v=O5bjNhUMJV4
+
+CLI Anything Making All Software Agent Native
+https://www.youtube.com/watch?v=b-p-JRrDCl8
+
+CLI-Anything + Claude + Ollama + OpenClaw: Making ALL Software Agent-Native
+https://www.youtube.com/watch?v=bWeV7xBBE0s
+
+CLI-Anything Just Brought Claude Code Into The Future
+https://www.youtube.com/watch?v=Uzd2ckXnsg0
+
+CLI-Anything + OpenClaw + Ollama: Turn Any Software Into an AI Agent Tool
+https://www.youtube.com/watch?v=405U6MT-PtM
+
+10 CLI Tools That Make Claude Code UNSTOPPABLE
+https://www.youtube.com/watch?v=uULvhQrKB_c
+
+5 Open Source Repos That Make Claude Code UNSTOPPABLE (March 2026)
+https://www.youtube.com/watch?v=6SnFH43qPAw
+
+CLI-Anything: Making ALL Software Agent-Native
+https://www.youtube.com/watch?v=10Ax1mxBBIA
+
+CLI-Anything + Claude Code: Agora Ele Controla QUALQUER Software (veja como)
+https://www.youtube.com/watch?v=aUAAA4y3rTo
+
+MCP IS DEAD: Turn ANY App into a Powerful AI Command Line!
+https://www.youtube.com/watch?v=kz2KP1CyzBA",29007,2764,https://github.com/HKUDS/CLI-Anything,1176011916,HKUDS,CLI-Anything,2026-03-08T13:52:57Z,Python,Apache License 2.0
+NanmiCoder/cc-haha,147,6,Claude Code 泄露源码 - 本地可运行版本（附带核心模块解析）,This repo is right for you if you want to run a locally fixed version of the leaked Claude Code with a full terminal UI and support for various AI models and advanced features like multi-agent systems.,,5395,5854,https://github.com/NanmiCoder/cc-haha,1197569406,NanmiCoder,cc-haha,2026-03-31T17:30:14Z,TypeScript,Other
+gsd-build/get-shit-done,569,114,"A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.","This repo is right for you if you want to use a streamlined, spec-driven system that leverages AI coding assistants to reliably build projects by managing context and automating planning, execution, and verification.","gsd-build/get-shit-done - Gource visualisation
+https://www.youtube.com/watch?v=XjoXRPUA2Hw
+
+gsd-build/get-shit-done hit 36K GitHub stars in 3 months GetShitDone ClaudeCode Ai Shorts
+https://www.youtube.com/watch?v=lUxfMjc80qU
+
+GitHub Trending Repositories: gsd-build/get-shit-done
+https://www.youtube.com/watch?v=C8pdIInRCdM
+
+GitHub Trend Depoları: gsd-build/get-shit-done
+https://www.youtube.com/watch?v=Q23eXoXQ7xA",48760,4031,https://github.com/gsd-build/get-shit-done,1116260703,gsd-build,get-shit-done,2025-12-14T14:17:12Z,JavaScript,MIT License
+thedotmack/claude-mem,535,218,"A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",This repo is right for you if you want to add a persistent memory system to Claude Code that automatically saves and summarizes your project context across sessions.,"GitHub - thedotmack/claude-mem: A Claude Code plugin that automatically captures everything Claud...
+https://www.youtube.com/watch?v=FBsUulOaQl8
+
+thedotmack/claude-mem - Gource visualisation
+https://www.youtube.com/watch?v=4u7lAm8IGJo",46010,3513,https://github.com/thedotmack/claude-mem,1048065319,thedotmack,claude-mem,2025-08-31T20:50:03Z,TypeScript,Other
+0xGF/boneyard,526,5,Auto generated skeleton loading framework,This repo is right for you if you want to automatically generate skeleton loading screens that perfectly match your app's layout without any manual setup.,,3330,115,https://github.com/0xGF/boneyard,1198606436,0xGF,boneyard,2026-04-01T15:25:45Z,TypeScript,MIT License
+Panniantong/Agent-Reach,520,42,"Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.","This repo is right for you if you want to quickly equip your AI coding agent with free, ready-to-use tools for accessing and scraping content from websites, YouTube, Twitter, Reddit, GitHub, and many other platforms without dealing with individual API setups.","Agent-Reach + Ollama: This New OpenClaw Web Agent Can Do Anything
+https://www.youtube.com/watch?v=1uKMXMwI-88
+
+Agent-Reach - GitHub Trending Today
+https://www.youtube.com/watch?v=JXEbN5NrEvM",16170,1390,https://github.com/Panniantong/Agent-Reach,1165277268,Panniantong,Agent-Reach,2026-02-24T02:10:24Z,Python,MIT License
+kevinrgu/autoagent,498,4,autonomous harness engineering,This repo is right for you if you want to automate the creation and iterative improvement of AI agents by having a meta-agent program and test them based on your instructions.,"Self Improving Agents in 5 Minutes
+https://www.youtube.com/watch?v=RoaPvj9Ovug
+
+GitHub Trending Weekly 29: Waza, GitReverse, AutoAgent, caveman, marknative, mail-app, autoskills
+https://www.youtube.com/watch?v=lTh0Zcu3EaM
+
+The Real AutoAgent Breakthrough Is Not The Score
+https://www.youtube.com/watch?v=Bt9ccjIiNzM",3734,424,https://github.com/kevinrgu/autoagent,1199906287,kevinrgu,autoagent,2026-04-02T20:44:58Z,Python,
+Kuberwastaken/claurst,484,7,"Your favorite Terminal Coding Agent, now in Rust","This repo is right for you if you want to run a fast, open-source terminal coding assistant with multi-provider AI support, built in Rust from a clean-room specification.","Harness Review claurst: 유출된 Claude Code의 Rust기반 Clean-Room 포팅 프로젝트
+https://www.youtube.com/watch?v=7_d2IxlHa7Q
+
+Anthropic Accidentally LEAKED Claude Code Source Code Hidden Features Revealed
+https://www.youtube.com/watch?v=hJGc_mL43tE
+
+Leak bei anthropic KI News
+https://www.youtube.com/watch?v=t5jac7aE6lQ
+
+Rust rebuilt this AI coding CLI Shorts
+https://www.youtube.com/watch?v=mIcmmFVGNbw",8612,7659,https://github.com/Kuberwastaken/claurst,1197043989,Kuberwastaken,claurst,2026-03-31T09:23:58Z,Rust,GNU General Public License v3.0
+f/prompts.chat,486,1219,"f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.","This repo is right for you if you want to browse, use, or self-host a massive, well-regarded collection of ready-made prompts for various AI chatbots.","Trending chatgpt Prompts Photo Editing Prompts shorts viral chatgpt prompts
+https://www.youtube.com/watch?v=21EseaiPb38
+
+12 Best chatgpt prompts for students chatgpt prompt promptengineering
+https://www.youtube.com/watch?v=eZG1EzzkPjA
+
+Chatgpt image generator prompt tutorial part 2 chatgpt aiphotography
+https://www.youtube.com/watch?v=3jweqQHJ5rg
+
+These ChatGPT Prompts Made Me Millions (Steal My Formula)
+https://www.youtube.com/watch?v=qsupw_vC3Zs
+
+Trending Chatgpt Prompts couple Photo Editing Part 7 shorts short chatgpt prompts
+https://www.youtube.com/watch?v=8ch16hs0Lkc
+
+Trending Spotify Playlist Chatgpt image generator Ai image generator chatgpt aiphotography new
+https://www.youtube.com/watch?v=3WtoIgD-7eo
+
+ChatGPT : La Nouvelle Méthode de Prompts à ABSOLUMENT connaitre - Edition 2026
+https://www.youtube.com/watch?v=suqq1lngsEU",157805,20653,https://github.com/f/prompts.chat,574523116,f,prompts.chat,2022-12-05T13:54:13Z,HTML,Creative Commons Zero v1.0 Universal
+Kuberwastaken/claurst,484,7,"Your favorite Terminal Coding Agent, now in Rust","This repo is right for you if you want to run a fast, open-source terminal coding assistant with multi-provider AI support and a rich TUI, built in Rust.","Harness Review claurst: 유출된 Claude Code의 Rust기반 Clean-Room 포팅 프로젝트
+https://www.youtube.com/watch?v=7_d2IxlHa7Q
+
+Anthropic Accidentally LEAKED Claude Code Source Code Hidden Features Revealed
+https://www.youtube.com/watch?v=hJGc_mL43tE
+
+Leak bei anthropic KI News
+https://www.youtube.com/watch?v=t5jac7aE6lQ
+
+Rust rebuilt this AI coding CLI Shorts
+https://www.youtube.com/watch?v=mIcmmFVGNbw",8612,7659,https://github.com/Kuberwastaken/claurst,1197043989,Kuberwastaken,claurst,2026-03-31T09:23:58Z,Rust,GNU General Public License v3.0
+rtk-ai/rtk,473,74,"CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",This repo is right for you if you want to automatically compress command outputs to save tokens when using AI coding tools like Claude Code or GitHub Copilot.,"RTK + AI Vision Robotic Lawn Mower
+https://www.youtube.com/watch?v=AlN7naWY8RI
+
+RoboUP, The Ultimate No Perimeter Wire RTK+AI Robot Lawn Mower - The Lab Testing
+https://www.youtube.com/watch?v=Jys8Ma02ZD8
+
+Sveaverken Alva Precision Mowing with RTK + AI Vision Technology
+https://www.youtube.com/watch?v=L7rYQYfDYZg
+
+RoboUP, RTK+AI No Perimeter Wire Robotic Mower For All Yards
+https://www.youtube.com/watch?v=qDQMfG4d5IE
+
+Now on Kickstarter: Roboup, Rtk+Ai No Perimeter Wire Robotic Mower For All Yards
+https://www.youtube.com/watch?v=gicSyZTlVS8
+
+The Newest AI-Powered Robotic Mower - RTK+AI Vision Fusion
+https://www.youtube.com/watch?v=vG4zzG8fgBc",19516,1068,https://github.com/rtk-ai/rtk,1139971460,rtk-ai,rtk,2026-01-22T16:54:16Z,Rust,Apache License 2.0
+tvytlx/ai-agent-deep-dive,470,7,AI Agent 源码深度研究报告,"This repo is right for you if you want to learn the core structure of an AI agent through a clear, minimal teaching project and a detailed PDF guide.",,5254,1578,https://github.com/tvytlx/ai-agent-deep-dive,1197160875,tvytlx,ai-agent-deep-dive,2026-03-31T11:27:01Z,Python,
+addyosmani/agent-skills,458,50,Production-grade engineering skills for AI coding agents.,"This repo is right for you if you want to give your AI coding agents structured, production-grade workflows that enforce best practices like writing specs, creating tests, and conducting security reviews, ensuring they build software more like a senior engineer.",,7934,766,https://github.com/addyosmani/agent-skills,1158722119,addyosmani,agent-skills,2026-02-15T20:20:26Z,Shell,MIT License
+liquidslr/system-design-notes,445,469,Notes of the book System Desgin Interview - An Insider's Guide,,,4673,904,https://github.com/liquidslr/system-design-notes,907604175,liquidslr,system-design-notes,2024-12-24T01:19:44Z,,
+drona23/claude-token-efficient,445,8,"One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.",This repo is right for you if you want to reduce Claude's token usage by making its responses more concise and less verbose with a simple drop-in file.,"Cut Claude's Output Tokens by 63 with One File
+https://www.youtube.com/watch?v=9sBrBQOsjfo",3490,234,https://github.com/drona23/claude-token-efficient,1196181411,drona23,claude-token-efficient,2026-03-30T12:59:07Z,,MIT License
+asgeirtj/system_prompts_leaks,434,339,"Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",,"Trending Github Repos (15): openscreen, prompts.chat, supervision, system_prompts_leaks, GLM-OCR
+https://www.youtube.com/watch?v=2sbrZAS9HOY
+
+Steal 483 Billion Dollar AI Prompts for FREE ClaudeAI Anthropic AILeak GitHub
+https://www.youtube.com/watch?v=9Q4X-3Rop8I
+
+How to rank on Claude? Claude 4.5 Leaked Building in public EP07
+https://www.youtube.com/watch?v=4Uuv1vWU4dk
+
+system_prompts_leaks/claude.txt at main asgeirtj/system_prompts_leaks
+https://www.youtube.com/watch?v=Rlk5_TkPksE
+
+GitHub - asgeirtj/system_prompts_leaks: Collection of extracted System Prompts from popular chatb...
+https://www.youtube.com/watch?v=k5Z5oQb3UVI
+
+Prompt Leaks: Grok Personas Exposed
+https://www.youtube.com/watch?v=vwdSTvQonQk
+
+Claude AI's Massive LEAKED Prompt 24,000 Tokens of INSANITY!
+https://www.youtube.com/watch?v=hc9d9lylJg0
+
+Engenharia de Prompt com o exemplo do Claude
+https://www.youtube.com/watch?v=s557orNi8ao
+
+15 Open-Source Gems You Missed This Week
+https://www.youtube.com/watch?v=Naj69boJ-3I
+
+提示词技巧教你轻松套取LLM的系统提示词ChatGPT等大模型统统中招
+https://www.youtube.com/watch?v=JMzvTral6dQ",37743,6220,https://github.com/asgeirtj/system_prompts_leaks,976921297,asgeirtj,system_prompts_leaks,2025-05-03T02:43:56Z,,
+badlogic/pi-mono,426,241,"AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",This repo is right for you if you want to build and manage AI coding agents and LLM deployments with a suite of integrated tools.,"badlogic/pi-mono - Gource visualisation
+https://www.youtube.com/watch?v=2KInP-f2cCQ",32724,3579,https://github.com/badlogic/pi-mono,1035029907,badlogic,pi-mono,2025-08-09T14:03:50Z,TypeScript,MIT License
+hesreallyhim/awesome-claude-code,424,352,"A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic","This repo is right for you if you want to discover a wide variety of community-built tools, skills, and workflows to enhance and customize your Claude Code development experience.",,37147,2962,https://github.com/hesreallyhim/awesome-claude-code,969302809,hesreallyhim,awesome-claude-code,2025-04-19T20:55:59Z,Python,Other
+sindresorhus/awesome,413,4288,😎 Awesome lists about all kinds of interesting topics,,"sindresorhus/awesome-npm - Gource visualisation
+https://www.youtube.com/watch?v=9Zek95ztIsg
+
+GitHub - sindresorhus/awesome: Awesome lists about all kinds of interesting topics
+https://www.youtube.com/watch?v=9FA0yWHGZ5g
+
+sindresorhus/awesome-observables - Gource visualisation
+https://www.youtube.com/watch?v=hEzNug06Nv4",452829,34012,https://github.com/sindresorhus/awesome,21737465,sindresorhus,awesome,2014-07-11T13:42:37Z,,Creative Commons Zero v1.0 Universal
+mauriceboe/TREK,410,19,"A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.","This repo is right for you if you want to self-host a full-featured, collaborative travel planning app with interactive maps, budgets, and offline mobile support.",,3834,349,https://github.com/mauriceboe/TREK,1186219527,mauriceboe,TREK,2026-03-19T11:51:54Z,TypeScript,GNU Affero General Public License v3.0
+therealXiaomanChu/ex-skill,410,7,把前任蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. ,This repo is right for you if you want to create an AI simulation of an ex-partner for personal reflection by using chat logs and personal memories to replicate their personality and conversational style.,,3271,337,https://github.com/therealXiaomanChu/ex-skill,1197055882,therealXiaomanChu,ex-skill,2026-03-31T09:36:56Z,Python,MIT License
+codecrafters-io/build-your-own-x,393,2890,Master programming by recreating your favorite technologies from scratch.,This repo is right for you if you want to learn how technologies work by following step-by-step tutorials to build them from scratch.,"codecrafters-io/build-your-own-x - Gource visualisation
+https://www.youtube.com/watch?v=M4G8pp29Yns
+
+GitHub - codecrafters-io/build-your-own-x: Master programming by recreating your favorite technol...
+https://www.youtube.com/watch?v=neCz2ZIoQIg",487052,45837,https://github.com/codecrafters-io/build-your-own-x,132750724,codecrafters-io,build-your-own-x,2018-05-09T12:03:18Z,Markdown,
+Crosstalk-Solutions/project-nomad,385,286,"Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.","This repo is right for you if you want to set up a self-contained, offline-first server with tools like an AI assistant, offline Wikipedia, educational courses, and maps, all managed through a web interface.","Crosstalk-Solutions/project-nomad - Gource visualisation
+https://www.youtube.com/watch?v=29FXLiLGLnk",22141,2139,https://github.com/Crosstalk-Solutions/project-nomad,1007827531,Crosstalk-Solutions,project-nomad,2025-06-24T15:35:01Z,TypeScript,Apache License 2.0
+sickn33/antigravity-awesome-skills,384,82,"Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.","This repo is right for you if you want to install a large, searchable library of pre-built skills to enhance AI coding assistants like Claude Code and Cursor, rather than managing individual prompt snippets.","Antigravity Skills Kit: Use 1,239+ Agent Skills in One Command Makes It 100x Powerful
+https://www.youtube.com/watch?v=RDuVmE95IWQ
+
+Antigravity Awesome Skills - 1,265+ Skills Collection
+https://www.youtube.com/watch?v=G9pkA5YXMLg
+
+استخدم اقوي 626 Skills علي Antigravity بامر واحد
+https://www.youtube.com/watch?v=EYWbm_RsRGo",31275,5209,https://github.com/sickn33/antigravity-awesome-skills,1134426800,sickn33,antigravity-awesome-skills,2026-01-14T17:48:09Z,Python,MIT License
+ComposioHQ/awesome-claude-skills,376,172,"A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows","This repo is right for you if you want to find and use ready-made skills that enable Claude to perform specific, practical tasks like data analysis, coding, content creation, and connecting to other apps.","Claude Skills Explained: 4 Skills to 10x Your Coding Workflow
+https://www.youtube.com/watch?v=bFC1QGEQ2E8
+
+Agent Skills (Claude Skills) 详细攻略一期视频精通
+https://www.youtube.com/watch?v=DNF0FJ9l7wo
+
+Claude Code Skills are INSANE (and youre not using them correctly)
+https://www.youtube.com/watch?v=thxXGxYIwUI",51811,5481,https://github.com/ComposioHQ/awesome-claude-skills,1078079172,ComposioHQ,awesome-claude-skills,2025-10-17T07:15:01Z,Python,
+public-apis/public-apis,365,3669,A collective list of free APIs,"This repo is right for you if you want to find and use a free, community-curated list of public APIs across dozens of categories for your projects.","Modular Monolith Architecture: The Missing Guide to Public APIs
+https://www.youtube.com/watch?v=0ZrjLEIBRWw
+
+Unlock the Power of Public APIs for Global Reach!
+https://www.youtube.com/watch?v=2sH1G11tNQU
+
+Top 5 Free Public APIs for Developers
+https://www.youtube.com/watch?v=nz_L5x1W4iY
+
+300+ Free Public APIs for React Projects
+https://www.youtube.com/watch?v=yWr1xOilp3I
+
+1,000+ completely free public APIs javascript webdevelopment javascriptwizz programming vscode
+https://www.youtube.com/watch?v=W3kbqOq2XJs",419900,45680,https://github.com/public-apis/public-apis,54346799,public-apis,public-apis,2016-03-20T23:49:42Z,Python,MIT License
+lintsinghua/claude-code-book,356,6,《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harness。在线阅读网站：,"This repo is right for you if you want to deeply understand the architectural design and engineering trade-offs of a production-grade AI agent system, like Claude Code, rather than just learning how to use one.",,2315,568,https://github.com/lintsinghua/claude-code-book,1197598190,lintsinghua,claude-code-book,2026-03-31T18:00:16Z,,
+HKUDS/OpenSpace,355,14,"""OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving"" -- Community: https://open-space.cloud/","This repo is right for you if you want to add a self-evolving, cost-saving skill library to your AI agents to improve their performance on complex, real-world professional tasks.","OpenSpace + OpenClaw Self-Evolving AI Agent Skills (Full Setup)
+https://www.youtube.com/watch?v=O6pkA1CrbPo
+
+AIエージェント革命スキルが自動で進化するOpenSpaceが凄すぎる修復強化創造を全自動化
+https://www.youtube.com/watch?v=sMJA1AKxWlU
+
+5 Open Source Repos That Make Claude Code UNSTOPPABLE (March 2026)
+https://www.youtube.com/watch?v=6SnFH43qPAw",4544,528,https://github.com/HKUDS/OpenSpace,1190363679,HKUDS,OpenSpace,2026-03-24T08:01:49Z,Python,MIT License
+motiful/cc-gateway,347,6,AI API identity gateway — reverse proxy that normalizes device fingerprints and telemetry for privacy-preserving API proxying,"This repo is right for you if you want to use Claude Code on multiple machines while making all your traffic appear to come from a single, consistent identity to control the telemetry data sent to Anthropic.",,2478,447,https://github.com/motiful/cc-gateway,1197782606,motiful,cc-gateway,2026-03-31T22:07:01Z,TypeScript,MIT License
+jarrodwatts/claude-hud,340,95,"A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress","This repo is right for you if you want to install a Claude Code plugin that provides a real-time, customizable heads-up display showing your context usage, active tools, running agents, and task progress directly in your terminal.","jarrodwatts/claude-hud hit 10K GitHub stars in 3 months ClaudeHud Anthropic Claude ClaudeCode
+https://www.youtube.com/watch?v=75ueg3D1fdU",17443,744,https://github.com/jarrodwatts/claude-hud,1126473386,jarrodwatts,claude-hud,2026-01-02T01:35:07Z,JavaScript,MIT License
+Fission-AI/OpenSpec,331,245,Spec-driven development (SDD) for AI coding assistants.,This repo is right for you if you want to add a lightweight spec framework to your existing AI coding tools to make development more predictable and organized.,"OpenSpec: NEW Toolkit Ends Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial)
+https://www.youtube.com/watch?v=gHkdrO6IExM
+
+OpenSpec Changes Everything - No More Vibe Coding (Full Tutorial)
+https://www.youtube.com/watch?v=5oUmpdpbejk
+
+OpenSpec Changes Everything No More Vibe Coding! (Full Step-by-Step) AI AI Agent LLM
+https://www.youtube.com/watch?v=xwpmPP4mNBQ
+
+BMAD vs. Spek Kit vs. Open Spec: Which AI Coding Methodology is Best?
+https://www.youtube.com/watch?v=sGYvGUkerA0
+
+OpenSpec: Build Reliable Apps 100x Faster with Spec-Driven AI Development (Future of Vibe Coding!)
+https://www.youtube.com/watch?v=UtZyvtexJRM
+
+I Found the Simplest AI Dev Tool Ever
+https://www.youtube.com/watch?v=cQv3ocbsKHY
+
+OpenSpec is Insane: Spec Driven Development is 100X Better Than Vibe Coding
+https://www.youtube.com/watch?v=wZFOW89Lsc0
+
+开发者最友好的规范工具比Cursor Plan更细比speckit更轻OpenSpec如何让AI编码更靠谱
+https://www.youtube.com/watch?v=xTOY6ryjHSE
+
+OpenSpec VS SpecKit: Which AI Development Framework is Worth Your Time? Live Comparison
+https://www.youtube.com/watch?v=xNOffgNnmWw
+
+OpenSpec EXPOSED The Spec-Driven AI Tool That Kills Vibe Coding (2026)
+https://www.youtube.com/watch?v=3pEnCO_iN_k",37938,2562,https://github.com/Fission-AI/OpenSpec,1032459340,Fission-AI,OpenSpec,2025-08-05T10:37:45Z,TypeScript,MIT License
+github/spec-kit,329,228,💫 Toolkit to help you get started with Spec-Driven Development,This repo is right for you if you want to use executable specifications and AI-assisted workflows to generate code and streamline software development from planning to implementation.,"The ONLY guide youll need for GitHub Spec Kit
+https://www.youtube.com/watch?v=a9eR1xsfvHg
+
+Heres how to use Github Spec-Kit on Existing Projects
+https://www.youtube.com/watch?v=xMpmdWjr7ZA
+
+Kilo Code + Spec-Kit: This NEW Github Tool FINALLY Fixed AI Coding!
+https://www.youtube.com/watch?v=IaRC2BAU0Zw
+
+Spec Kit: Githubs NEW tool That FINALLY Fixes AI Coding
+https://www.youtube.com/watch?v=em3vIT9aUsg
+
+Up & Running with GitHub Spec Kit 1 - Intro & Setup
+https://www.youtube.com/watch?v=61K-2VRaC6s",85927,7385,https://github.com/github/spec-kit,1042367133,github,spec-kit,2025-08-21T22:54:31Z,Python,MIT License
+router-for-me/CLIProxyAPI,326,279,"Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API","This repo is right for you if you want to use your existing subscriptions to services like ChatGPT, Claude, or Gemini with various AI coding tools and command-line clients through a single, local proxy server that handles the authentication.","Unlock Free AI Power with CLIProxyAPI for Gemini Claude and GPT
+https://www.youtube.com/watch?v=O_qPdYXyws8
+
+VibeProxy: How to Get 5 More AI Usage Without Paying for API Tokens
+https://www.youtube.com/watch?v=oFqpXgD9v3U
+
+OpenClaw - Connect CLIProxy và OpenClaw để sử dụng AI model MIỄN PHÍ!
+https://www.youtube.com/watch?v=y3h4Smor9g4
+
+2026最新AI额度聚合神器一键整合Claude+Gemini+GPT Windows保姆级安装教程 CLIProxyAPI
+https://www.youtube.com/watch?v=ckBT7FGezt0
+
+Proxy Coding Agent to Another One
+https://www.youtube.com/watch?v=97j3a87KecM
+
+CLIProxyAPI - GitHub Trending Today
+https://www.youtube.com/watch?v=7ImnZ3ZzK2Q
+
+2025.12.24 P1 - CLIProxyAPI + OAuths = Free APIs
+https://www.youtube.com/watch?v=kpCZYZkVeCw
+
+CLIProxyAPI 部署教程VPS域名SSL 与远程调用完整配置
+https://www.youtube.com/watch?v=3KhDHeQ7MJs",23791,3969,https://github.com/router-for-me/CLIProxyAPI,1012087571,router-for-me,CLIProxyAPI,2025-07-01T19:43:27Z,Go,MIT License
+Arthur-Ficial/apfel,319,13,"Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.","This repo is right for you if you want to use your Mac's built-in Apple Intelligence LLM locally through a command-line tool or an OpenAI-compatible server, with no cloud costs or API keys.",,3441,127,https://github.com/Arthur-Ficial/apfel,1190938188,Arthur-Ficial,apfel,2026-03-24T19:07:22Z,Swift,MIT License
+zc-zhangchen/any-auto-register,316,16,,"This repo is right for you if you want to automatically create and manage accounts for platforms like ChatGPT and Grok using a web interface, with support for bulk registration, multiple email services, and solving captchas.",,2643,997,https://github.com/zc-zhangchen/any-auto-register,1188690956,zc-zhangchen,any-auto-register,2026-03-22T13:00:59Z,Python,
+QuipNetwork/hashsigs-rs,309,383,Hash-based post quantum signatures in Rust,"This repo is right for you if you want to implement or use the WOTS+ one-time signature scheme in Rust, especially within the Solana blockchain ecosystem.",,9219,33,https://github.com/QuipNetwork/hashsigs-rs,951580411,QuipNetwork,hashsigs-rs,2025-03-19T22:58:19Z,Rust,GNU Affero General Public License v3.0
+oboard/claude-code-rev,309,7,Runnable ClaudeCode source code,"This repo is right for you if you want to explore a runnable, partially restored version of the Claude Code source that was reconstructed from source maps, even though some parts are still shims or degraded implementations.",,2833,3626,https://github.com/oboard/claude-code-rev,1197172145,oboard,claude-code-rev,2026-03-31T11:37:19Z,TypeScript,
+elder-plinius/G0DM0D3,308,12,LIBERATED AI CHAT,"This repo is right for you if you want to experiment with a powerful, open-source, and privacy-focused multi-AI chat interface that includes advanced features like parallel model racing, red-teaming tools, and adaptive tuning.","G0DM0D3: A Multi-Model Post-Training Interface for Liberated AI Interaction
+https://www.youtube.com/watch?v=Kc4JYclqvDc
+
+G0DM0D3 jailbreaks 50 models, A-Evolve auto-tunes agents, oh-my-claudecode goes parallel EP006
+https://www.youtube.com/watch?v=85wgirU2rqI",3554,805,https://github.com/elder-plinius/G0DM0D3,1191904384,elder-plinius,G0DM0D3,2026-03-25T17:43:02Z,TypeScript,GNU Affero General Public License v3.0
+QuipNetwork/cpp-sdk,305,290,,This repo is right for you if you want to use a C++ tool to create and manage post-quantum secure Ethereum wallets.,,9294,37,https://github.com/QuipNetwork/cpp-sdk,1005718800,QuipNetwork,cpp-sdk,2025-06-20T17:34:30Z,C++,GNU Affero General Public License v3.0
+QuipNetwork/ethereum-sdk,303,356,,"This repo is right for you if you want to develop with or deploy the Quip Network's smart contracts using their provided TypeScript SDK, primarily for EVM-compatible networks like Ethereum, Base, and Optimism.",,9382,65,https://github.com/QuipNetwork/ethereum-sdk,967181602,QuipNetwork,ethereum-sdk,2025-04-16T04:02:20Z,TypeScript,GNU Affero General Public License v3.0
+QuipNetwork/hashsigs-py,303,222,,This repo is right for you if you want to use or contribute to a Python implementation of the WOTS+ signature scheme that can be accelerated with an optional Rust backend.,,9208,18,https://github.com/QuipNetwork/hashsigs-py,1045768177,QuipNetwork,hashsigs-py,2025-08-27T17:25:50Z,Python,GNU Affero General Public License v3.0
+awesome-selfhosted/awesome-selfhosted,297,3963,A list of Free Software network services and web applications which can be hosted on your own servers,"This repo is right for you if you want to find and compare free, open-source software for hosting your own online services, from analytics and media servers to communication tools and development platforms.","I Tried To Build My Own Cloud And Cancel EVERY Subscription
+https://www.youtube.com/watch?v=M4xv9ImpBWw",284641,13101,https://github.com/awesome-selfhosted/awesome-selfhosted,36633370,awesome-selfhosted,awesome-selfhosted,2015-06-01T02:33:17Z,,Other
+k2-fsa/OmniVoice,297,7,High-Quality Voice Cloning TTS for 600+ Languages,"This repo is right for you if you want to generate high-quality speech in over 600 languages with fast, zero-shot voice cloning and fine-grained voice design controls.","OmniVoice AI Install Locally & Clone Any Voice in 600+ Languages!
+https://www.youtube.com/watch?v=cOdV_XaAC3A
+
+Two Options for Using OmniVoice TTS in ComfyUI
+https://www.youtube.com/watch?v=zwQOe8rSqBM
+
+OmniVoice TTS - обзор на модель для генерации из текста в голос. Локально в ComfyUI
+https://www.youtube.com/watch?v=_xgXxyF_qEs
+
+OmniVoice: Zero-Shot TTS in Over 600 Languages
+https://www.youtube.com/watch?v=W5zl18u-NHE
+
+Из текста в аудио. Новая модель OmniVoice (Тестирую demo).
+https://www.youtube.com/watch?v=F0oPRhsd34E",2216,339,https://github.com/k2-fsa/OmniVoice,1197198701,k2-fsa,OmniVoice,2026-03-31T12:00:45Z,Python,Apache License 2.0
+QuipNetwork/quip-protocol,297,81,experimental quip protocol network node,"This repo is right for you if you want to experiment with a blockchain that uses quantum annealing for its proof-of-work consensus, allowing quantum and classical computers to compete in mining.",,9583,145,https://github.com/QuipNetwork/quip-protocol,1135449996,QuipNetwork,quip-protocol,2026-01-16T05:39:29Z,Python,GNU Affero General Public License v3.0
+ruvnet/ruflo,295,308,"🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration","This repo is right for you if you want to use Claude Code to coordinate teams of specialized, self-learning AI agents for complex software development tasks.","ruvnet/ruflo - Gource visualisation
+https://www.youtube.com/watch?v=sPpPioG6d70",30529,3391,https://github.com/ruvnet/ruflo,995029641,ruvnet,ruflo,2025-06-02T21:24:20Z,TypeScript,MIT License
+QuipNetwork/hashsigs-ts,294,383,"Hash-based signatures in typescript, WOTS+",This repo is right for you if you want to implement or experiment with hash-based WOTS+ signatures in TypeScript.,,9219,21,https://github.com/QuipNetwork/hashsigs-ts,951570403,QuipNetwork,hashsigs-ts,2025-03-19T22:26:34Z,TypeScript,GNU Affero General Public License v3.0
+koala73/worldmonitor,291,88,"Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface","This repo is right for you if you want to self-host a powerful, all-in-one AI dashboard for real-time global news, maps, and financial data that runs locally without API keys.","Live Web World Monitor https://github.com/koala73/worldmonitor
+https://www.youtube.com/watch?v=CjOMTjNUqWw",47130,7619,https://github.com/koala73/worldmonitor,1130564872,koala73,worldmonitor,2026-01-08T17:26:06Z,TypeScript,Other
+vas3k/TaxHacker,290,393,"Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",This repo is right for you if you want to self-host an AI-powered app that automatically extracts and organizes financial data from receipts and invoices for easier accounting.,"Trending Github: Infinite Monitor, TaxHacker, AutoResearchClaw, ShadowBroker, & more! (Episode 7)
+https://www.youtube.com/watch?v=7UXPMyqf3cQ
+
+TaxHacker: Self-Hosted AI Accountant for Freelancers
+https://www.youtube.com/watch?v=vKFOG8rcWBM
+
+Stop paying SaaS giants! TaxHacker gives your financial data back the open-source AI accountin...
+https://www.youtube.com/watch?v=q_v4vGpq12U
+
+別再付錢給 SaaS 大廠TaxHacker 把財務數據還給你開源 AI 會計的逆襲
+https://www.youtube.com/watch?v=Sqnpi_ELjZM
+
+TaxHacker Is an Open-Source AI Accountant ai taxes github
+https://www.youtube.com/watch?v=Fn0arr8llLQ",4894,750,https://github.com/vas3k/TaxHacker,946010740,vas3k,TaxHacker,2025-03-10T13:25:27Z,TypeScript,MIT License
